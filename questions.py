@@ -1,33 +1,51 @@
-"""
-Your test questions.
 
-Milestone 2 asks you to write five questions your system should be able to
-answer from your corpus, specific enough to have a right answer.
-
-  ✗ "What are good dining halls?"          — no right answer
-  ✓ "What do students say about wait times at Commons during lunch?"
-
-Fill in `QUESTIONS` below. `expects` is a word or short phrase you'd expect a
-correct answer to contain — you'll use it in unit 2 when you build a scorer,
-and having written it now means you decided what "correct" meant before you saw
-any results.
-
-`OUT_OF_SCOPE` holds five questions your documents clearly don't cover. You
-need these in Milestone 4 to find where your relevance cutoff belongs, and
-again in unit 2, where `run_eval.py` runs them through the gate and writes what
-happened into your run log — that's the evidence for criterion 3.
-
-Swap them for your own if you like. Keep five of them either way: criterion 3
-names a target of "4 of 5", and four of three is not a thing.
-"""
+#Bellow are five test questions the system can answer from the city_guides corpus."
 
 QUESTIONS = [
-    # {"question": "...", "expects": "..."},
-    {"question": "", "expects": ""},
-    {"question": "", "expects": ""},
-    {"question": "", "expects": ""},
-    {"question": "", "expects": ""},
-    {"question": "", "expects": ""},
+    {
+        "question": "When is the best time to book railway tickets at a cheaper-than-normal rate?",
+        "expects": (
+            "The best time to purchase cheaper tickets is the day before "
+            "or when booking a week ahead."
+        ),
+    },
+    {
+        "question": "Which cities have free parking?",
+        "expects": (
+            "Kestreford's lower car park area is the only city with "
+            "free parking."
+        ),
+    },
+    {
+        "question": (
+            "What are some fun things visitors can do while in "
+            "Kestreford and Marchwood?"
+        ),
+        "expects": (
+            "The Sunday morning market square is the main event in Kestreford "
+            "and has run continuously since the 1400s. In Marchwood, the city "
+            "museum is an excellent visitor attraction. The canal walk from "
+            "Northgate to the old lock is recommended by residents when asked "
+            "by visitors."
+        ),
+    },
+    {
+        "question": "Where is the hospital located?",
+        "expects": (
+            "The nearest hospital is in Brightwater. It has a minor injuries "
+            "unit locally with limited hours."
+        ),
+    },
+    {
+        "question": (
+            "What is the best means of transportation with the shortest "
+            "travel time from Brightwater to Givens Mill?"
+        ),
+        "expects": (
+            "The shortest route from Brightwater to Givens Mill takes "
+            "20 minutes by car."
+        ),
+    },
 ]
 
 # Questions from a different world entirely. Your gate should refuse all five.
@@ -37,6 +55,7 @@ QUESTIONS = [
 # `run_eval.py` runs these through retrieval and the gate on every eval and
 # records what happened, so criterion 3 has evidence in the run log alongside
 # the others. They cost no model calls: a refusal never reaches the model.
+
 OUT_OF_SCOPE = [
     "What is the capital of Mongolia?",
     "How do I change the oil in a diesel engine?",
