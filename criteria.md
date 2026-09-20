@@ -19,30 +19,31 @@ pipeline earns credit; *"80% seemed reasonable"* does not.
 
 ## 1. Retrieved chunks contain the answer
 
+Hit Rate@K (a.k.a Success Rate@K) - 80% Hit Rate@5 
 For at least 4 of my 5 test questions, the retrieved chunks include one that
 contains the answer.
 
 **Why this target:**
-<!-- e.g. "One of my questions is about a topic only two documents mention, so
-     I expect that one to be hard." -->
+
+An 80% Hit Rate@K means 4 of my 5 test questions will contain the answer.
 
 ---
 
 ## 2. Every answer names a source
 
+Citation Coverage - 100%
 Every answer the system produces names at least one source document.
 
 **Why this target:**
-<!-- Why all five and not four? What about your setup makes that achievable —
-     or what would have to go wrong for it not to be? -->
+Citation coverage will determine if the questions asked are rooted in a source from the corpus.
 
 ---
 
 ## 3. The relevance gate stops out-of-corpus questions
 
-When I ask a question my documents clearly don't cover, the relevance gate
-stops it and the system returns "I don't have enough information about that" —
-in at least 4 of 5 tries.
+True Negative Rate (TNR) - 80%
+Determines the response when I ask a question my documents clearly don't cover, the relevance gate
+stops it and the system returns "I don't have enough information about that" — in at least 4 of 5 tries.
 
 <!-- The five questions are the ones in `OUT_OF_SCOPE` at the bottom of
      `questions.py`, and `run_eval.py` puts them through the gate and writes
@@ -55,9 +56,7 @@ in at least 4 of 5 tries.
 
 ---
 
-## 4. Something about your chunks
-
-<!-- YOU WRITE THIS ONE.
+## 4. Word- Boundary Integrity (WBI) - 100%
 
      How would you know if your chunks were the right size? Name something
      countable or observable.
@@ -69,28 +68,18 @@ in at least 4 of 5 tries.
        - "No chunk is shorter than 200 characters, since anything below that
           in my corpus turned out to be a heading with no content under it." -->
 
-
-
-**Why this target:**
-
-
+Why? Full words versus split words to preserve retrieval context.
 
 ---
 
-## 5. Your choice
-
-<!-- YOU WRITE THIS ONE TOO.
-
-     Pick something you actually care about getting right. It could be about
-     speed, about refusals, about a particular kind of question your corpus
-     handles badly, about source attribution being correct rather than merely
-     present — anything, as long as it names a number or an observable
-     outcome. -->
-
-
+## 5. Semantic Boundary Alignment Rate (SBAR) - 80% 
+Think Meaning - do the chunked words or organization of the chunked words capture correct response meaning/ context?
 
 **Why this target:**
 
+An 80% meaning cpature of chunked output reflects the quality of retrieval. Together with the WBI it provides a fuller picture of chunking strategy strength.
+
+If the word boundary meets 100% the retrieval context will improve support for a strong semantic boundary/the meaning of the word integrity. 
 
 
 ---
