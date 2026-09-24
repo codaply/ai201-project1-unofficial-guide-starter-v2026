@@ -75,7 +75,7 @@ Chunk 2 — source: guide_corry_vale.md#5 — produced by: chunker.py::split_doc
 
 # Corry Vale
 
-## Where to stay
+### Where to stay
 
 Perhaps thirty beds in the entire valley, spread across two pubs and a handful of farmhouse rooms. In summer these are booked months ahead. Camping is permitted on two marked fields and nowhere else.
 
@@ -83,7 +83,7 @@ Chunk 3 — source: guide_givens_mill.md#2 — produced by: chunker.py::split_do
 
 # Givens Mill
 
-## Getting around
+### Getting around
 
 Everything is on one street along the river. The mill is at one end and the church at the other, eight minutes apart. The riverside path continues in both directions for as far as you want to walk.
 
@@ -91,7 +91,7 @@ Chunk 4 — source: guide_kestrelford.md#4 — produced by: chunker.py::split_do
 
 # Kestrelford
 
-## What to see
+### What to see
 
 The market square on a Saturday morning is the main event and has run continuously since the 1400s. The parish church has a 13th-century tower you can climb for £2. The old trackbed walk runs six miles to the next village along an easy gradient and is the best half-day here.
 
@@ -99,7 +99,7 @@ Chunk 5 — source: guide_pellew_sands.md#6 — produced by: chunker.py::split_d
 
 # Pellew Sands
 
-## When to go
+### When to go
 
 June and September for the beach without the crowds. July and August are busy and the town is at its most itself, for better and worse. Winter is bleak, largely closed, and has a following among people who like that sort of thing.
 
