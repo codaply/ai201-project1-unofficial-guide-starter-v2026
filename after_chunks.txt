@@ -1,0 +1,3109 @@
+317 chunks total. Showing 317, spread across the corpus.
+
+Paste these into your README under Sample Chunks. The rubric asks
+for the source file and the function that produced them — both are
+printed for you below.
+
+======================================================================
+Chunk 1  |  source: guide_accessibility.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+An honest assessment rather than a promotional one. Some of these places are
+difficult and it is better to know in advance.
+
+======================================================================
+Chunk 2  |  source: guide_accessibility.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+An honest assessment rather than a promotional one. Some of these places are
+difficult and it is better to know in advance.
+
+======================================================================
+Chunk 3  |  source: guide_accessibility.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Straightforward
+
+**Thornby Wells** is the easiest town in the region. It is flat, compact, and
+everything is within three minutes of everything else.
+
+======================================================================
+Chunk 4  |  source: guide_accessibility.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Straightforward
+
+**Thornby Wells** is the easiest town in the region. It is flat, compact, and
+everything is within three minutes of everything else. Parking is free for two
+hours anywhere in town and the station is central.
+
+======================================================================
+Chunk 5  |  source: guide_accessibility.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Straightforward
+
+It is flat, compact, and
+everything is within three minutes of everything else. Parking is free for two
+hours anywhere in town and the station is central. The pump room and gardens
+are level throughout.
+
+======================================================================
+Chunk 6  |  source: guide_accessibility.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Straightforward
+
+Parking is free for two
+hours anywhere in town and the station is central. The pump room and gardens
+are level throughout. **Marchwood** has a modern tram network with level boarding on all four lines,
+running every 8 minutes on weekdays.
+
+======================================================================
+Chunk 7  |  source: guide_accessibility.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Straightforward
+
+The pump room and gardens
+are level throughout. **Marchwood** has a modern tram network with level boarding on all four lines,
+running every 8 minutes on weekdays. The city museum and covered market are both
+step-free.
+
+======================================================================
+Chunk 8  |  source: guide_accessibility.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Straightforward
+
+**Marchwood** has a modern tram network with level boarding on all four lines,
+running every 8 minutes on weekdays. The city museum and covered market are both
+step-free. The distances between districts are the main consideration.
+
+======================================================================
+Chunk 9  |  source: guide_accessibility.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Straightforward
+
+The city museum and covered market are both
+step-free. The distances between districts are the main consideration. **Brightwater** is level along the river and through the centre.
+
+======================================================================
+Chunk 10  |  source: guide_accessibility.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Straightforward
+
+The distances between districts are the main consideration. **Brightwater** is level along the river and through the centre. The mill museum
+is step-free.
+
+======================================================================
+Chunk 11  |  source: guide_accessibility.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Straightforward
+
+**Brightwater** is level along the river and through the centre. The mill museum
+is step-free. The station is a 15-minute walk from campus on flat ground, or the
+shuttle meets the four busiest arrivals.
+
+======================================================================
+Chunk 12  |  source: guide_accessibility.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Straightforward
+
+The mill museum
+is step-free. The station is a 15-minute walk from campus on flat ground, or the
+shuttle meets the four busiest arrivals.
+
+======================================================================
+Chunk 13  |  source: guide_accessibility.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Mixed
+
+**Pellew Sands** has a two-mile seafront that is flat the whole way, and
+everything of interest is on it or one street back. The land train runs the
+length of the promenade hourly between Easter and September.
+
+======================================================================
+Chunk 14  |  source: guide_accessibility.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Mixed
+
+**Pellew Sands** has a two-mile seafront that is flat the whole way, and
+everything of interest is on it or one street back. The land train runs the
+length of the promenade hourly between Easter and September. The beach itself is
+hard sand and manageable at low tide.
+
+======================================================================
+Chunk 15  |  source: guide_accessibility.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Mixed
+
+The land train runs the
+length of the promenade hourly between Easter and September. The beach itself is
+hard sand and manageable at low tide. **Givens Mill** is one flat street along the river.
+
+======================================================================
+Chunk 16  |  source: guide_accessibility.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Mixed
+
+The beach itself is
+hard sand and manageable at low tide. **Givens Mill** is one flat street along the river. The mill tour involves
+stairs and the machinery floor is not accessible; the tearoom and riverside are.
+
+======================================================================
+Chunk 17  |  source: guide_accessibility.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Mixed
+
+**Givens Mill** is one flat street along the river. The mill tour involves
+stairs and the machinery floor is not accessible; the tearoom and riverside are.
+
+======================================================================
+Chunk 18  |  source: guide_accessibility.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Difficult
+
+**Kestrelford** is built on a slope and the walk up from the lower car park is
+steeper than it looks on a map. There is no transport within the town.
+
+======================================================================
+Chunk 19  |  source: guide_accessibility.md#18  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Difficult
+
+**Kestrelford** is built on a slope and the walk up from the lower car park is
+steeper than it looks on a map. There is no transport within the town. **Halden Bay** is built on three levels connected by stepped lanes.
+
+======================================================================
+Chunk 20  |  source: guide_accessibility.md#19  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Difficult
+
+There is no transport within the town. **Halden Bay** is built on three levels connected by stepped lanes. The harbour
+front is level; everything above it is not.
+
+======================================================================
+Chunk 21  |  source: guide_accessibility.md#20  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Difficult
+
+**Halden Bay** is built on three levels connected by stepped lanes. The harbour
+front is level; everything above it is not. This is hard going with luggage or a
+pushchair, let alone a wheelchair.
+
+======================================================================
+Chunk 22  |  source: guide_accessibility.md#21  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Difficult
+
+The harbour
+front is level; everything above it is not. This is hard going with luggage or a
+pushchair, let alone a wheelchair. **Corry Vale** has no public transport, villages two to four miles apart, and
+footpaths rather than pavements.
+
+======================================================================
+Chunk 23  |  source: guide_accessibility.md#22  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Difficult
+
+This is hard going with luggage or a
+pushchair, let alone a wheelchair. **Corry Vale** has no public transport, villages two to four miles apart, and
+footpaths rather than pavements. **Elder Ness** is shingle and a single street.
+
+======================================================================
+Chunk 24  |  source: guide_accessibility.md#23  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Difficult
+
+**Corry Vale** has no public transport, villages two to four miles apart, and
+footpaths rather than pavements. **Elder Ness** is shingle and a single street.
+
+======================================================================
+Chunk 25  |  source: guide_accessibility.md#24  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Practical
+
+The nearest full hospital is in Marchwood. Brightwater has a hospital;
+Kestrelford, Halden Bay, Corry Vale, Givens Mill and Elder Ness have minor
+injuries units with limited hours or nothing at all.
+
+======================================================================
+Chunk 26  |  source: guide_accessibility.md#25  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Practical
+
+The nearest full hospital is in Marchwood. Brightwater has a hospital;
+Kestrelford, Halden Bay, Corry Vale, Givens Mill and Elder Ness have minor
+injuries units with limited hours or nothing at all. Mobile coverage is good in the town centres and patchy on the outskirts, and
+genuinely absent in parts of Corry Vale.
+
+======================================================================
+Chunk 27  |  source: guide_accessibility.md#26  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region with limited mobility
+
+## Practical
+
+Brightwater has a hospital;
+Kestrelford, Halden Bay, Corry Vale, Givens Mill and Elder Ness have minor
+injuries units with limited hours or nothing at all. Mobile coverage is good in the town centres and patchy on the outskirts, and
+genuinely absent in parts of Corry Vale.
+
+======================================================================
+Chunk 28  |  source: guide_brightwater.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+Brightwater is a river town of about 40,000 people, roughly doubling in term time. It grew around a mill that closed in 1974 and spent twenty years working out what to be instead.
+
+======================================================================
+Chunk 29  |  source: guide_brightwater.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+Brightwater is a river town of about 40,000 people, roughly doubling in term time. It grew around a mill that closed in 1974 and spent twenty years working out what to be instead. The answer turned out to be the university.
+
+======================================================================
+Chunk 30  |  source: guide_brightwater.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+It grew around a mill that closed in 1974 and spent twenty years working out what to be instead. The answer turned out to be the university.
+
+======================================================================
+Chunk 31  |  source: guide_brightwater.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Getting there
+
+The train runs to the regional hub eleven times a day on weekdays and six times on Sundays, taking 50 minutes. The station is a 15-minute walk from campus, or the shuttle meets the four busiest arrivals.
+
+======================================================================
+Chunk 32  |  source: guide_brightwater.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Getting there
+
+The train runs to the regional hub eleven times a day on weekdays and six times on Sundays, taking 50 minutes. The station is a 15-minute walk from campus, or the shuttle meets the four busiest arrivals. Long-distance coaches stop on Verrill Street rather than at the station, which catches people out.
+
+======================================================================
+Chunk 33  |  source: guide_brightwater.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Getting there
+
+The station is a 15-minute walk from campus, or the shuttle meets the four busiest arrivals. Long-distance coaches stop on Verrill Street rather than at the station, which catches people out. There is no airport; the nearest is 90 minutes by road.
+
+======================================================================
+Chunk 34  |  source: guide_brightwater.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Getting there
+
+Long-distance coaches stop on Verrill Street rather than at the station, which catches people out. There is no airport; the nearest is 90 minutes by road.
+
+======================================================================
+Chunk 35  |  source: guide_brightwater.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Getting around
+
+The town is walkable end to end in about 35 minutes. The local bus runs two routes on a 30-minute headway until 7pm and stops entirely on Sundays.
+
+======================================================================
+Chunk 36  |  source: guide_brightwater.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Getting around
+
+The town is walkable end to end in about 35 minutes. The local bus runs two routes on a 30-minute headway until 7pm and stops entirely on Sundays. Cycling is easy along the river path and unpleasant on Mill Road, which has no shoulder.
+
+======================================================================
+Chunk 37  |  source: guide_brightwater.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Getting around
+
+The local bus runs two routes on a 30-minute headway until 7pm and stops entirely on Sundays. Cycling is easy along the river path and unpleasant on Mill Road, which has no shoulder. Taxis exist but must be phoned; they do not circulate looking for fares.
+
+======================================================================
+Chunk 38  |  source: guide_brightwater.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Getting around
+
+Cycling is easy along the river path and unpleasant on Mill Road, which has no shoulder. Taxis exist but must be phoned; they do not circulate looking for fares.
+
+======================================================================
+Chunk 39  |  source: guide_brightwater.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Eat and drink
+
+The riverside strip has six or seven places aimed squarely at visitors and priced accordingly. Two streets back, on Corry Lane, the same food costs about a third less.
+
+======================================================================
+Chunk 40  |  source: guide_brightwater.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Eat and drink
+
+The riverside strip has six or seven places aimed squarely at visitors and priced accordingly. Two streets back, on Corry Lane, the same food costs about a third less. The Tuesday market sets up in the square from 7am and is finished by 1pm.
+
+======================================================================
+Chunk 41  |  source: guide_brightwater.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Eat and drink
+
+Two streets back, on Corry Lane, the same food costs about a third less. The Tuesday market sets up in the square from 7am and is finished by 1pm. Most kitchens in town stop serving at 9pm, earlier than visitors expect, and on Sundays many close entirely.
+
+======================================================================
+Chunk 42  |  source: guide_brightwater.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Eat and drink
+
+The Tuesday market sets up in the square from 7am and is finished by 1pm. Most kitchens in town stop serving at 9pm, earlier than visitors expect, and on Sundays many close entirely.
+
+======================================================================
+Chunk 43  |  source: guide_brightwater.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## What to see
+
+The mill building itself is now a museum and is genuinely good, particularly the section on what happened to the town after it closed. Allow 90 minutes.
+
+======================================================================
+Chunk 44  |  source: guide_brightwater.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## What to see
+
+The mill building itself is now a museum and is genuinely good, particularly the section on what happened to the town after it closed. Allow 90 minutes. The river walk runs four miles upstream to a weir and is the thing most people remember.
+
+======================================================================
+Chunk 45  |  source: guide_brightwater.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## What to see
+
+Allow 90 minutes. The river walk runs four miles upstream to a weir and is the thing most people remember. The cathedral is small and 14th century and takes 20 minutes.
+
+======================================================================
+Chunk 46  |  source: guide_brightwater.md#18  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## What to see
+
+The river walk runs four miles upstream to a weir and is the thing most people remember. The cathedral is small and 14th century and takes 20 minutes.
+
+======================================================================
+Chunk 47  |  source: guide_brightwater.md#19  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Where to stay
+
+Accommodation is thin and expensive during graduation week and in early September. Outside those windows there is more supply than demand.
+
+======================================================================
+Chunk 48  |  source: guide_brightwater.md#20  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Where to stay
+
+Accommodation is thin and expensive during graduation week and in early September. Outside those windows there is more supply than demand. The two hotels on the riverside are the obvious choice and the guesthouses on Corry Lane are better value.
+
+======================================================================
+Chunk 49  |  source: guide_brightwater.md#21  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Where to stay
+
+Outside those windows there is more supply than demand. The two hotels on the riverside are the obvious choice and the guesthouses on Corry Lane are better value.
+
+======================================================================
+Chunk 50  |  source: guide_brightwater.md#22  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## When to go
+
+May and June are the best months — long days, everything open, and the students largely gone. July and August are quiet to the point of being dull.
+
+======================================================================
+Chunk 51  |  source: guide_brightwater.md#23  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## When to go
+
+May and June are the best months — long days, everything open, and the students largely gone. July and August are quiet to the point of being dull. Late September through November the town is at its busiest.
+
+======================================================================
+Chunk 52  |  source: guide_brightwater.md#24  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## When to go
+
+July and August are quiet to the point of being dull. Late September through November the town is at its busiest. Winter is cold and several riverside businesses close entirely from January to March.
+
+======================================================================
+Chunk 53  |  source: guide_brightwater.md#25  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## When to go
+
+Late September through November the town is at its busiest. Winter is cold and several riverside businesses close entirely from January to March.
+
+======================================================================
+Chunk 54  |  source: guide_brightwater.md#26  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts.
+
+======================================================================
+Chunk 55  |  source: guide_brightwater.md#27  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 56  |  source: guide_brightwater.md#28  |  produced by: chunker.py::split_documents
+======================================================================
+# Brightwater
+
+## Practical notes
+
+Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 57  |  source: guide_corry_vale.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+Corry Vale is not a town but a valley containing four villages strung along eleven miles of road. Visitors treat it as one destination and locals emphatically do not.
+
+======================================================================
+Chunk 58  |  source: guide_corry_vale.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+Corry Vale is not a town but a valley containing four villages strung along eleven miles of road. Visitors treat it as one destination and locals emphatically do not. The largest village has 900 people and the smallest has 140.
+
+======================================================================
+Chunk 59  |  source: guide_corry_vale.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+Visitors treat it as one destination and locals emphatically do not. The largest village has 900 people and the smallest has 140.
+
+======================================================================
+Chunk 60  |  source: guide_corry_vale.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Getting there
+
+There is no public transport into the valley beyond a school bus that will carry passengers if there is room. Driving from Brightwater takes 35 minutes on a good road as far as the valley mouth and then 20 more on a poor one.
+
+======================================================================
+Chunk 61  |  source: guide_corry_vale.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Getting there
+
+There is no public transport into the valley beyond a school bus that will carry passengers if there is room. Driving from Brightwater takes 35 minutes on a good road as far as the valley mouth and then 20 more on a poor one. Cycling in is a serious undertaking; the road climbs 400 metres in the first four miles.
+
+======================================================================
+Chunk 62  |  source: guide_corry_vale.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Getting there
+
+Driving from Brightwater takes 35 minutes on a good road as far as the valley mouth and then 20 more on a poor one. Cycling in is a serious undertaking; the road climbs 400 metres in the first four miles.
+
+======================================================================
+Chunk 63  |  source: guide_corry_vale.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Getting around
+
+Nothing within the valley is walkable from anything else — the villages are two to four miles apart. There is one taxi, based in the largest village, and it must be booked a day ahead.
+
+======================================================================
+Chunk 64  |  source: guide_corry_vale.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Getting around
+
+Nothing within the valley is walkable from anything else — the villages are two to four miles apart. There is one taxi, based in the largest village, and it must be booked a day ahead. Most visitors drive between villages and walk the footpaths in between.
+
+======================================================================
+Chunk 65  |  source: guide_corry_vale.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Getting around
+
+There is one taxi, based in the largest village, and it must be booked a day ahead. Most visitors drive between villages and walk the footpaths in between.
+
+======================================================================
+Chunk 66  |  source: guide_corry_vale.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Eat and drink
+
+One pub in the largest village serves food seven days a week. A second, in the third village, opens Thursday to Sunday.
+
+======================================================================
+Chunk 67  |  source: guide_corry_vale.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Eat and drink
+
+One pub in the largest village serves food seven days a week. A second, in the third village, opens Thursday to Sunday. There is a farm shop at the valley mouth that sells bread, cheese and little else, and it closes at 4pm.
+
+======================================================================
+Chunk 68  |  source: guide_corry_vale.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Eat and drink
+
+A second, in the third village, opens Thursday to Sunday. There is a farm shop at the valley mouth that sells bread, cheese and little else, and it closes at 4pm. Bring supplies; this is not a place with options.
+
+======================================================================
+Chunk 69  |  source: guide_corry_vale.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Eat and drink
+
+There is a farm shop at the valley mouth that sells bread, cheese and little else, and it closes at 4pm. Bring supplies; this is not a place with options.
+
+======================================================================
+Chunk 70  |  source: guide_corry_vale.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## What to see
+
+The valley itself is the attraction. The footpath network is dense and well marked, and a circuit taking in three of the four villages is about nine miles with 500 metres of ascent.
+
+======================================================================
+Chunk 71  |  source: guide_corry_vale.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## What to see
+
+The valley itself is the attraction. The footpath network is dense and well marked, and a circuit taking in three of the four villages is about nine miles with 500 metres of ascent. The chapel in the second village is 12th century and always unlocked.
+
+======================================================================
+Chunk 72  |  source: guide_corry_vale.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## What to see
+
+The footpath network is dense and well marked, and a circuit taking in three of the four villages is about nine miles with 500 metres of ascent. The chapel in the second village is 12th century and always unlocked.
+
+======================================================================
+Chunk 73  |  source: guide_corry_vale.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Where to stay
+
+Perhaps thirty beds in the entire valley, spread across two pubs and a handful of farmhouse rooms. In summer these are booked months ahead.
+
+======================================================================
+Chunk 74  |  source: guide_corry_vale.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Where to stay
+
+Perhaps thirty beds in the entire valley, spread across two pubs and a handful of farmhouse rooms. In summer these are booked months ahead. Camping is permitted on two marked fields and nowhere else.
+
+======================================================================
+Chunk 75  |  source: guide_corry_vale.md#18  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Where to stay
+
+In summer these are booked months ahead. Camping is permitted on two marked fields and nowhere else.
+
+======================================================================
+Chunk 76  |  source: guide_corry_vale.md#19  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## When to go
+
+May to September. Outside those months the pub in the third village closes, the farm shop reduces its hours, and several footpaths become genuinely boggy rather than merely wet.
+
+======================================================================
+Chunk 77  |  source: guide_corry_vale.md#20  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## When to go
+
+May to September. Outside those months the pub in the third village closes, the farm shop reduces its hours, and several footpaths become genuinely boggy rather than merely wet. The road is not gritted above the second village and is impassable in snow.
+
+======================================================================
+Chunk 78  |  source: guide_corry_vale.md#21  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## When to go
+
+Outside those months the pub in the third village closes, the farm shop reduces its hours, and several footpaths become genuinely boggy rather than merely wet. The road is not gritted above the second village and is impassable in snow.
+
+======================================================================
+Chunk 79  |  source: guide_corry_vale.md#22  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts.
+
+======================================================================
+Chunk 80  |  source: guide_corry_vale.md#23  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 81  |  source: guide_corry_vale.md#24  |  produced by: chunker.py::split_documents
+======================================================================
+# Corry Vale
+
+## Practical notes
+
+Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 82  |  source: guide_eating.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## The pattern worth knowing
+
+Almost everywhere in this region, the good cooking is one street back from
+wherever the visitors are. Brightwater's riverside strip is priced for people
+who walked there from the hotels; Corry Lane, two streets inland, serves
+comparable food for about a third less.
+
+======================================================================
+Chunk 83  |  source: guide_eating.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## The pattern worth knowing
+
+Almost everywhere in this region, the good cooking is one street back from
+wherever the visitors are. Brightwater's riverside strip is priced for people
+who walked there from the hotels; Corry Lane, two streets inland, serves
+comparable food for about a third less. Halden Bay's harbour front is roughly
+double Fell Street, one level up.
+
+======================================================================
+Chunk 84  |  source: guide_eating.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## The pattern worth knowing
+
+Brightwater's riverside strip is priced for people
+who walked there from the hotels; Corry Lane, two streets inland, serves
+comparable food for about a third less. Halden Bay's harbour front is roughly
+double Fell Street, one level up. Pellew Sands's seafront is chips and ice
+cream, and Marine Terrace behind it is where the actual restaurants are.
+
+======================================================================
+Chunk 85  |  source: guide_eating.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## The pattern worth knowing
+
+Halden Bay's harbour front is roughly
+double Fell Street, one level up. Pellew Sands's seafront is chips and ice
+cream, and Marine Terrace behind it is where the actual restaurants are. Marchwood is the exception, in that the good district — Northgate — is a tram
+ride away rather than a street away, and the station area is uniformly poor.
+
+======================================================================
+Chunk 86  |  source: guide_eating.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## The pattern worth knowing
+
+Pellew Sands's seafront is chips and ice
+cream, and Marine Terrace behind it is where the actual restaurants are. Marchwood is the exception, in that the good district — Northgate — is a tram
+ride away rather than a street away, and the station area is uniformly poor.
+
+======================================================================
+Chunk 87  |  source: guide_eating.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Opening hours
+
+This catches visitors out more than anything else. Outside Marchwood, kitchens
+across the region stop serving at 9pm and often earlier.
+
+======================================================================
+Chunk 88  |  source: guide_eating.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Opening hours
+
+This catches visitors out more than anything else. Outside Marchwood, kitchens
+across the region stop serving at 9pm and often earlier. Kestrelford's pubs
+serve 12 to 2 and 6 to 8:30 and there is nowhere to eat at all outside those
+windows.
+
+======================================================================
+Chunk 89  |  source: guide_eating.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Opening hours
+
+Outside Marchwood, kitchens
+across the region stop serving at 9pm and often earlier. Kestrelford's pubs
+serve 12 to 2 and 6 to 8:30 and there is nowhere to eat at all outside those
+windows. Elder Ness has one pub, closed Mondays.
+
+======================================================================
+Chunk 90  |  source: guide_eating.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Opening hours
+
+Kestrelford's pubs
+serve 12 to 2 and 6 to 8:30 and there is nowhere to eat at all outside those
+windows. Elder Ness has one pub, closed Mondays. Sunday evening is the hardest meal to find anywhere except Marchwood and
+Thornby Wells.
+
+======================================================================
+Chunk 91  |  source: guide_eating.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Opening hours
+
+Elder Ness has one pub, closed Mondays. Sunday evening is the hardest meal to find anywhere except Marchwood and
+Thornby Wells.
+
+======================================================================
+Chunk 92  |  source: guide_eating.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Markets
+
+Kestrelford's Saturday market has run since the 1400s and is the region's best,
+though much reduced from November to February. Brightwater's Tuesday market
+sets up at 7am in the square and is finished by 1pm.
+
+======================================================================
+Chunk 93  |  source: guide_eating.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Markets
+
+Kestrelford's Saturday market has run since the 1400s and is the region's best,
+though much reduced from November to February. Brightwater's Tuesday market
+sets up at 7am in the square and is finished by 1pm. Marchwood's covered market
+has operated since 1863, runs six days a week, and is at its best on a weekday
+morning.
+
+======================================================================
+Chunk 94  |  source: guide_eating.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Markets
+
+Brightwater's Tuesday market
+sets up at 7am in the square and is finished by 1pm. Marchwood's covered market
+has operated since 1863, runs six days a week, and is at its best on a weekday
+morning.
+
+======================================================================
+Chunk 95  |  source: guide_eating.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Local specifics
+
+Halden Bay's seafood is genuinely fresh — the two harbour restaurants buy
+directly from boats that land in the early morning. Givens Mill's tearoom sells
+bread made from flour ground twenty metres away.
+
+======================================================================
+Chunk 96  |  source: guide_eating.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Local specifics
+
+Halden Bay's seafood is genuinely fresh — the two harbour restaurants buy
+directly from boats that land in the early morning. Givens Mill's tearoom sells
+bread made from flour ground twenty metres away. Kestrelford's bakery sells out
+by 11am and is the reason a lot of people return.
+
+======================================================================
+Chunk 97  |  source: guide_eating.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Local specifics
+
+Givens Mill's tearoom sells
+bread made from flour ground twenty metres away. Kestrelford's bakery sells out
+by 11am and is the reason a lot of people return. Thornby Wells does Sunday
+lunch as a local institution and it needs booking a week ahead.
+
+======================================================================
+Chunk 98  |  source: guide_eating.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Local specifics
+
+Kestrelford's bakery sells out
+by 11am and is the reason a lot of people return. Thornby Wells does Sunday
+lunch as a local institution and it needs booking a week ahead.
+
+======================================================================
+Chunk 99  |  source: guide_eating.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Practical
+
+Cash is still useful at markets and in the smaller villages. Corry Vale has a
+farm shop at the valley mouth selling bread and cheese and little else, closing
+at 4pm — bring supplies if you are staying there.
+
+======================================================================
+Chunk 100  |  source: guide_eating.md#18  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Practical
+
+Cash is still useful at markets and in the smaller villages. Corry Vale has a
+farm shop at the valley mouth selling bread and cheese and little else, closing
+at 4pm — bring supplies if you are staying there. Elder Ness has one shop,
+closed Sundays and after 5pm.
+
+======================================================================
+Chunk 101  |  source: guide_eating.md#19  |  produced by: chunker.py::split_documents
+======================================================================
+# Eating across the region
+
+## Practical
+
+Corry Vale has a
+farm shop at the valley mouth selling bread and cheese and little else, closing
+at 4pm — bring supplies if you are staying there. Elder Ness has one shop,
+closed Sundays and after 5pm.
+
+======================================================================
+Chunk 102  |  source: guide_elder_ness.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+Elder Ness is a headland with a village of 300 on it, a lighthouse, a bird observatory, and very little else. People come for one of three reasons — birds, walking, or a deliberate absence of things to do.
+
+======================================================================
+Chunk 103  |  source: guide_elder_ness.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+Elder Ness is a headland with a village of 300 on it, a lighthouse, a bird observatory, and very little else. People come for one of three reasons — birds, walking, or a deliberate absence of things to do.
+
+======================================================================
+Chunk 104  |  source: guide_elder_ness.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Getting there
+
+A single road in, which floods at the highest spring tides roughly six times a year for about two hours either side of high water. Tide tables are posted at the turning and are worth reading.
+
+======================================================================
+Chunk 105  |  source: guide_elder_ness.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Getting there
+
+A single road in, which floods at the highest spring tides roughly six times a year for about two hours either side of high water. Tide tables are posted at the turning and are worth reading. No public transport of any kind.
+
+======================================================================
+Chunk 106  |  source: guide_elder_ness.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Getting there
+
+Tide tables are posted at the turning and are worth reading. No public transport of any kind. Nearest station is Pellew Sands, 40 minutes by road.
+
+======================================================================
+Chunk 107  |  source: guide_elder_ness.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Getting there
+
+No public transport of any kind. Nearest station is Pellew Sands, 40 minutes by road.
+
+======================================================================
+Chunk 108  |  source: guide_elder_ness.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Getting around
+
+On foot. The village is one street.
+
+======================================================================
+Chunk 109  |  source: guide_elder_ness.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Getting around
+
+On foot. The village is one street. The lighthouse is a 25-minute walk along the shingle, which is harder going than the distance suggests.
+
+======================================================================
+Chunk 110  |  source: guide_elder_ness.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Getting around
+
+The village is one street. The lighthouse is a 25-minute walk along the shingle, which is harder going than the distance suggests. There is one car park at the village and parking anywhere else on the headland is prohibited and enforced.
+
+======================================================================
+Chunk 111  |  source: guide_elder_ness.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Getting around
+
+The lighthouse is a 25-minute walk along the shingle, which is harder going than the distance suggests. There is one car park at the village and parking anywhere else on the headland is prohibited and enforced.
+
+======================================================================
+Chunk 112  |  source: guide_elder_ness.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Eat and drink
+
+One pub, serving food 12 to 2 and 6 to 8, closed Mondays. A shop that sells basics and closes at 5pm and all day Sunday.
+
+======================================================================
+Chunk 113  |  source: guide_elder_ness.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Eat and drink
+
+One pub, serving food 12 to 2 and 6 to 8, closed Mondays. A shop that sells basics and closes at 5pm and all day Sunday. That is the complete list.
+
+======================================================================
+Chunk 114  |  source: guide_elder_ness.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Eat and drink
+
+A shop that sells basics and closes at 5pm and all day Sunday. That is the complete list. Visitors staying more than a night bring food with them.
+
+======================================================================
+Chunk 115  |  source: guide_elder_ness.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Eat and drink
+
+That is the complete list. Visitors staying more than a night bring food with them.
+
+======================================================================
+Chunk 116  |  source: guide_elder_ness.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## What to see
+
+The bird observatory takes day visitors and the wardens are generous with their time; spring and autumn migration are the reasons to come. The lighthouse is not open to the public but the walk to it is the point.
+
+======================================================================
+Chunk 117  |  source: guide_elder_ness.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## What to see
+
+The bird observatory takes day visitors and the wardens are generous with their time; spring and autumn migration are the reasons to come. The lighthouse is not open to the public but the walk to it is the point. The shingle beach is dramatic and swimming is genuinely dangerous — there is a strong offshore current and no lifeguard.
+
+======================================================================
+Chunk 118  |  source: guide_elder_ness.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## What to see
+
+The lighthouse is not open to the public but the walk to it is the point. The shingle beach is dramatic and swimming is genuinely dangerous — there is a strong offshore current and no lifeguard.
+
+======================================================================
+Chunk 119  |  source: guide_elder_ness.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Where to stay
+
+The pub has four rooms and the observatory has dormitory accommodation for members and their guests. Both book up entirely for the migration seasons a year ahead.
+
+======================================================================
+Chunk 120  |  source: guide_elder_ness.md#18  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Where to stay
+
+The pub has four rooms and the observatory has dormitory accommodation for members and their guests. Both book up entirely for the migration seasons a year ahead. There is nothing else.
+
+======================================================================
+Chunk 121  |  source: guide_elder_ness.md#19  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Where to stay
+
+Both book up entirely for the migration seasons a year ahead. There is nothing else.
+
+======================================================================
+Chunk 122  |  source: guide_elder_ness.md#20  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## When to go
+
+April to May and September to October for birds, which is what most visitors come for. Midsummer is pleasant and quiet.
+
+======================================================================
+Chunk 123  |  source: guide_elder_ness.md#21  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## When to go
+
+April to May and September to October for birds, which is what most visitors come for. Midsummer is pleasant and quiet. Winter is severe, the road floods more often, and the pub reduces to weekends only.
+
+======================================================================
+Chunk 124  |  source: guide_elder_ness.md#22  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## When to go
+
+Midsummer is pleasant and quiet. Winter is severe, the road floods more often, and the pub reduces to weekends only.
+
+======================================================================
+Chunk 125  |  source: guide_elder_ness.md#23  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts.
+
+======================================================================
+Chunk 126  |  source: guide_elder_ness.md#24  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 127  |  source: guide_elder_ness.md#25  |  produced by: chunker.py::split_documents
+======================================================================
+# Elder Ness
+
+## Practical notes
+
+Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 128  |  source: guide_givens_mill.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+Givens Mill is a village of 700 built around a working watermill that still grinds flour commercially. It is the sort of place people visit for an afternoon and then talk about for longer than the visit lasted.
+
+======================================================================
+Chunk 129  |  source: guide_givens_mill.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+Givens Mill is a village of 700 built around a working watermill that still grinds flour commercially. It is the sort of place people visit for an afternoon and then talk about for longer than the visit lasted.
+
+======================================================================
+Chunk 130  |  source: guide_givens_mill.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Getting there
+
+No station and no bus on Sundays; four buses a day from Brightwater on weekdays, taking 30 minutes. Driving is 20 minutes.
+
+======================================================================
+Chunk 131  |  source: guide_givens_mill.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Getting there
+
+No station and no bus on Sundays; four buses a day from Brightwater on weekdays, taking 30 minutes. Driving is 20 minutes. The village car park holds about forty cars and is full by 11am on summer Saturdays.
+
+======================================================================
+Chunk 132  |  source: guide_givens_mill.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Getting there
+
+Driving is 20 minutes. The village car park holds about forty cars and is full by 11am on summer Saturdays.
+
+======================================================================
+Chunk 133  |  source: guide_givens_mill.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Getting around
+
+Everything is on one street along the river. The mill is at one end and the church at the other, eight minutes apart.
+
+======================================================================
+Chunk 134  |  source: guide_givens_mill.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Getting around
+
+Everything is on one street along the river. The mill is at one end and the church at the other, eight minutes apart. The riverside path continues in both directions for as far as you want to walk.
+
+======================================================================
+Chunk 135  |  source: guide_givens_mill.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Getting around
+
+The mill is at one end and the church at the other, eight minutes apart. The riverside path continues in both directions for as far as you want to walk.
+
+======================================================================
+Chunk 136  |  source: guide_givens_mill.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Eat and drink
+
+A tearoom attached to the mill, open 10 to 4 daily except Tuesdays, which sells bread made from the flour ground twenty metres away and is the reason most people come. One pub, food served lunchtimes and Thursday to Saturday evenings.
+
+======================================================================
+Chunk 137  |  source: guide_givens_mill.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Eat and drink
+
+A tearoom attached to the mill, open 10 to 4 daily except Tuesdays, which sells bread made from the flour ground twenty metres away and is the reason most people come. One pub, food served lunchtimes and Thursday to Saturday evenings.
+
+======================================================================
+Chunk 138  |  source: guide_givens_mill.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## What to see
+
+The mill runs tours on the hour from 11 to 3 and the machinery is operating during them, which is loud and much more impressive than a static exhibit. The church has a Saxon doorway.
+
+======================================================================
+Chunk 139  |  source: guide_givens_mill.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## What to see
+
+The mill runs tours on the hour from 11 to 3 and the machinery is operating during them, which is loud and much more impressive than a static exhibit. The church has a Saxon doorway. The river walk downstream reaches Brightwater in about three hours.
+
+======================================================================
+Chunk 140  |  source: guide_givens_mill.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## What to see
+
+The church has a Saxon doorway. The river walk downstream reaches Brightwater in about three hours.
+
+======================================================================
+Chunk 141  |  source: guide_givens_mill.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Where to stay
+
+Nothing in the village itself. The nearest rooms are in Brightwater, which is close enough that this is not really a problem — most people come for a half day.
+
+======================================================================
+Chunk 142  |  source: guide_givens_mill.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Where to stay
+
+Nothing in the village itself. The nearest rooms are in Brightwater, which is close enough that this is not really a problem — most people come for a half day.
+
+======================================================================
+Chunk 143  |  source: guide_givens_mill.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## When to go
+
+The mill runs March to November and is closed entirely in winter. Late spring is the best time.
+
+======================================================================
+Chunk 144  |  source: guide_givens_mill.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## When to go
+
+The mill runs March to November and is closed entirely in winter. Late spring is the best time. Summer Saturdays are busy enough that the car park becomes the limiting factor; come on a weekday if you can.
+
+======================================================================
+Chunk 145  |  source: guide_givens_mill.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## When to go
+
+Late spring is the best time. Summer Saturdays are busy enough that the car park becomes the limiting factor; come on a weekday if you can.
+
+======================================================================
+Chunk 146  |  source: guide_givens_mill.md#18  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts.
+
+======================================================================
+Chunk 147  |  source: guide_givens_mill.md#19  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 148  |  source: guide_givens_mill.md#20  |  produced by: chunker.py::split_documents
+======================================================================
+# Givens Mill
+
+## Practical notes
+
+Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 149  |  source: guide_halden_bay.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+Halden Bay is a working fishing port of 8,000 that has picked up a second life as a weekend destination. The two economies sit somewhat awkwardly beside each other and the town is candid about it.
+
+======================================================================
+Chunk 150  |  source: guide_halden_bay.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+Halden Bay is a working fishing port of 8,000 that has picked up a second life as a weekend destination. The two economies sit somewhat awkwardly beside each other and the town is candid about it.
+
+======================================================================
+Chunk 151  |  source: guide_halden_bay.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Getting there
+
+The coast road is the only approach and it is slow — 40 minutes for 22 miles, with the last stretch cut into the cliff. Buses run four times a day.
+
+======================================================================
+Chunk 152  |  source: guide_halden_bay.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Getting there
+
+The coast road is the only approach and it is slow — 40 minutes for 22 miles, with the last stretch cut into the cliff. Buses run four times a day. Parking in the town itself is limited to two small lots that fill by 10am on summer weekends; the overflow lot is a 12-minute walk up a hill.
+
+======================================================================
+Chunk 153  |  source: guide_halden_bay.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Getting there
+
+Buses run four times a day. Parking in the town itself is limited to two small lots that fill by 10am on summer weekends; the overflow lot is a 12-minute walk up a hill.
+
+======================================================================
+Chunk 154  |  source: guide_halden_bay.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Getting around
+
+The town is small enough to cross in fifteen minutes but is built on three levels connected by stepped lanes, which makes it hard going with luggage or a pushchair. The harbour front is level; everything above it is not.
+
+======================================================================
+Chunk 155  |  source: guide_halden_bay.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Getting around
+
+The town is small enough to cross in fifteen minutes but is built on three levels connected by stepped lanes, which makes it hard going with luggage or a pushchair. The harbour front is level; everything above it is not.
+
+======================================================================
+Chunk 156  |  source: guide_halden_bay.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Eat and drink
+
+Seafood, unsurprisingly, and it is genuinely fresh — the boats land in the early morning and the two harbour restaurants buy directly. Prices on the harbour front are roughly double those on Fell Street, one level up, for comparable food.
+
+======================================================================
+Chunk 157  |  source: guide_halden_bay.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Eat and drink
+
+Seafood, unsurprisingly, and it is genuinely fresh — the boats land in the early morning and the two harbour restaurants buy directly. Prices on the harbour front are roughly double those on Fell Street, one level up, for comparable food. Everything closes by 9pm and much of it closes entirely from November to February.
+
+======================================================================
+Chunk 158  |  source: guide_halden_bay.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Eat and drink
+
+Prices on the harbour front are roughly double those on Fell Street, one level up, for comparable food. Everything closes by 9pm and much of it closes entirely from November to February.
+
+======================================================================
+Chunk 159  |  source: guide_halden_bay.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## What to see
+
+The harbour at 6am when the boats come in is the thing worth setting an alarm for. The coastal path runs in both directions, north to a lighthouse in about two hours and south along the cliffs for as far as you want.
+
+======================================================================
+Chunk 160  |  source: guide_halden_bay.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## What to see
+
+The harbour at 6am when the boats come in is the thing worth setting an alarm for. The coastal path runs in both directions, north to a lighthouse in about two hours and south along the cliffs for as far as you want. The small museum on Fell Street covers the fishing industry and takes 40 minutes.
+
+======================================================================
+Chunk 161  |  source: guide_halden_bay.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## What to see
+
+The coastal path runs in both directions, north to a lighthouse in about two hours and south along the cliffs for as far as you want. The small museum on Fell Street covers the fishing industry and takes 40 minutes.
+
+======================================================================
+Chunk 162  |  source: guide_halden_bay.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Where to stay
+
+Almost entirely holiday lets rather than hotels, which means minimum stays of two or three nights in summer. There is one inn on the harbour.
+
+======================================================================
+Chunk 163  |  source: guide_halden_bay.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Where to stay
+
+Almost entirely holiday lets rather than hotels, which means minimum stays of two or three nights in summer. There is one inn on the harbour. Prices roughly halve outside July and August.
+
+======================================================================
+Chunk 164  |  source: guide_halden_bay.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Where to stay
+
+There is one inn on the harbour. Prices roughly halve outside July and August.
+
+======================================================================
+Chunk 165  |  source: guide_halden_bay.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## When to go
+
+June and September are the sweet spot. July and August are busy enough that the parking problem becomes the defining feature of the visit.
+
+======================================================================
+Chunk 166  |  source: guide_halden_bay.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## When to go
+
+June and September are the sweet spot. July and August are busy enough that the parking problem becomes the defining feature of the visit. Winter is dramatic and largely closed.
+
+======================================================================
+Chunk 167  |  source: guide_halden_bay.md#18  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## When to go
+
+July and August are busy enough that the parking problem becomes the defining feature of the visit. Winter is dramatic and largely closed. The coastal path is genuinely dangerous in high wind and gets shut.
+
+======================================================================
+Chunk 168  |  source: guide_halden_bay.md#19  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## When to go
+
+Winter is dramatic and largely closed. The coastal path is genuinely dangerous in high wind and gets shut.
+
+======================================================================
+Chunk 169  |  source: guide_halden_bay.md#20  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts.
+
+======================================================================
+Chunk 170  |  source: guide_halden_bay.md#21  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 171  |  source: guide_halden_bay.md#22  |  produced by: chunker.py::split_documents
+======================================================================
+# Halden Bay
+
+## Practical notes
+
+Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 172  |  source: guide_kestrelford.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+Kestrelford is a hill town of 12,000, an hour inland from Brightwater. It has been a market town since the 1200s and the street plan has not meaningfully changed since.
+
+======================================================================
+Chunk 173  |  source: guide_kestrelford.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+Kestrelford is a hill town of 12,000, an hour inland from Brightwater. It has been a market town since the 1200s and the street plan has not meaningfully changed since. This is charming on foot and difficult in a car.
+
+======================================================================
+Chunk 174  |  source: guide_kestrelford.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+It has been a market town since the 1200s and the street plan has not meaningfully changed since. This is charming on foot and difficult in a car.
+
+======================================================================
+Chunk 175  |  source: guide_kestrelford.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Getting there
+
+No railway station; the line was closed in 1963 and the trackbed is now a walking route. Buses run from Brightwater roughly hourly on weekdays, every two hours on Saturdays, and not at all on Sundays.
+
+======================================================================
+Chunk 176  |  source: guide_kestrelford.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Getting there
+
+No railway station; the line was closed in 1963 and the trackbed is now a walking route. Buses run from Brightwater roughly hourly on weekdays, every two hours on Saturdays, and not at all on Sundays. Driving takes 55 minutes and the last eight are on a single-track road with passing places.
+
+======================================================================
+Chunk 177  |  source: guide_kestrelford.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Getting there
+
+Buses run from Brightwater roughly hourly on weekdays, every two hours on Saturdays, and not at all on Sundays. Driving takes 55 minutes and the last eight are on a single-track road with passing places.
+
+======================================================================
+Chunk 178  |  source: guide_kestrelford.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Getting around
+
+Everything is within a ten-minute walk of the market square. The town is built on a slope and the walk up from the lower car park is steeper than it looks on a map.
+
+======================================================================
+Chunk 179  |  source: guide_kestrelford.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Getting around
+
+Everything is within a ten-minute walk of the market square. The town is built on a slope and the walk up from the lower car park is steeper than it looks on a map. There is no local bus service within the town itself.
+
+======================================================================
+Chunk 180  |  source: guide_kestrelford.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Getting around
+
+The town is built on a slope and the walk up from the lower car park is steeper than it looks on a map. There is no local bus service within the town itself.
+
+======================================================================
+Chunk 181  |  source: guide_kestrelford.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Eat and drink
+
+Four pubs, two cafés, and a bakery that sells out by 11am. The pubs serve food between 12 and 2 and again between 6 and 8:30, and outside those windows there is nowhere to eat at all.
+
+======================================================================
+Chunk 182  |  source: guide_kestrelford.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Eat and drink
+
+Four pubs, two cafés, and a bakery that sells out by 11am. The pubs serve food between 12 and 2 and again between 6 and 8:30, and outside those windows there is nowhere to eat at all. The bakery is the reason most people come back.
+
+======================================================================
+Chunk 183  |  source: guide_kestrelford.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Eat and drink
+
+The pubs serve food between 12 and 2 and again between 6 and 8:30, and outside those windows there is nowhere to eat at all. The bakery is the reason most people come back.
+
+======================================================================
+Chunk 184  |  source: guide_kestrelford.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## What to see
+
+The market square on a Saturday morning is the main event and has run continuously since the 1400s. The parish church has a 13th-century tower you can climb for £2.
+
+======================================================================
+Chunk 185  |  source: guide_kestrelford.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## What to see
+
+The market square on a Saturday morning is the main event and has run continuously since the 1400s. The parish church has a 13th-century tower you can climb for £2. The old trackbed walk runs six miles to the next village along an easy gradient and is the best half-day here.
+
+======================================================================
+Chunk 186  |  source: guide_kestrelford.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## What to see
+
+The parish church has a 13th-century tower you can climb for £2. The old trackbed walk runs six miles to the next village along an easy gradient and is the best half-day here.
+
+======================================================================
+Chunk 187  |  source: guide_kestrelford.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Where to stay
+
+Two inns on the square and a handful of rooms above the pubs. Booking ahead matters between May and September and not at all otherwise.
+
+======================================================================
+Chunk 188  |  source: guide_kestrelford.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Where to stay
+
+Two inns on the square and a handful of rooms above the pubs. Booking ahead matters between May and September and not at all otherwise. There is no accommodation of any kind within four miles of the town in either direction.
+
+======================================================================
+Chunk 189  |  source: guide_kestrelford.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Where to stay
+
+Booking ahead matters between May and September and not at all otherwise. There is no accommodation of any kind within four miles of the town in either direction.
+
+======================================================================
+Chunk 190  |  source: guide_kestrelford.md#18  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## When to go
+
+Late spring and early autumn. The Saturday market runs year-round but is much reduced from November to February.
+
+======================================================================
+Chunk 191  |  source: guide_kestrelford.md#19  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## When to go
+
+Late spring and early autumn. The Saturday market runs year-round but is much reduced from November to February. August is busy with walkers.
+
+======================================================================
+Chunk 192  |  source: guide_kestrelford.md#20  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## When to go
+
+The Saturday market runs year-round but is much reduced from November to February. August is busy with walkers. The single-track approach road is genuinely difficult in snow and the town can be cut off for a day or two most winters.
+
+======================================================================
+Chunk 193  |  source: guide_kestrelford.md#21  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## When to go
+
+August is busy with walkers. The single-track approach road is genuinely difficult in snow and the town can be cut off for a day or two most winters.
+
+======================================================================
+Chunk 194  |  source: guide_kestrelford.md#22  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts.
+
+======================================================================
+Chunk 195  |  source: guide_kestrelford.md#23  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 196  |  source: guide_kestrelford.md#24  |  produced by: chunker.py::split_documents
+======================================================================
+# Kestrelford
+
+## Practical notes
+
+Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 197  |  source: guide_marchwood.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+Marchwood is the regional hub — 180,000 people, the junction everyone changes trains at, and a city most visitors pass through rather than stop in. That is a mistake, though an understandable one, since almost nothing of interest is near the station.
+
+======================================================================
+Chunk 198  |  source: guide_marchwood.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+Marchwood is the regional hub — 180,000 people, the junction everyone changes trains at, and a city most visitors pass through rather than stop in. That is a mistake, though an understandable one, since almost nothing of interest is near the station.
+
+======================================================================
+Chunk 199  |  source: guide_marchwood.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Getting there
+
+Every railway line in the region meets here, which is the city's defining feature. Trains to Brightwater run every 40 minutes until 11pm.
+
+======================================================================
+Chunk 200  |  source: guide_marchwood.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Getting there
+
+Every railway line in the region meets here, which is the city's defining feature. Trains to Brightwater run every 40 minutes until 11pm. The airport is 20 minutes out by a dedicated bus that runs every 15 minutes and costs more than the equivalent taxi shared between three people.
+
+======================================================================
+Chunk 201  |  source: guide_marchwood.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Getting there
+
+Trains to Brightwater run every 40 minutes until 11pm. The airport is 20 minutes out by a dedicated bus that runs every 15 minutes and costs more than the equivalent taxi shared between three people.
+
+======================================================================
+Chunk 202  |  source: guide_marchwood.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Getting around
+
+A tram network of four lines, running every 8 minutes on weekdays and every 15 at weekends, until midnight. A day ticket costs less than two single fares and nobody tells you this at the machine.
+
+======================================================================
+Chunk 203  |  source: guide_marchwood.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Getting around
+
+A tram network of four lines, running every 8 minutes on weekdays and every 15 at weekends, until midnight. A day ticket costs less than two single fares and nobody tells you this at the machine. The centre is walkable but the interesting districts are not adjacent to each other.
+
+======================================================================
+Chunk 204  |  source: guide_marchwood.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Getting around
+
+A day ticket costs less than two single fares and nobody tells you this at the machine. The centre is walkable but the interesting districts are not adjacent to each other.
+
+======================================================================
+Chunk 205  |  source: guide_marchwood.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Eat and drink
+
+The best eating is in the Northgate district, a 12-minute tram ride from the station, where about thirty restaurants sit within four streets. The area immediately around the station is uniformly poor and expensive.
+
+======================================================================
+Chunk 206  |  source: guide_marchwood.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Eat and drink
+
+The best eating is in the Northgate district, a 12-minute tram ride from the station, where about thirty restaurants sit within four streets. The area immediately around the station is uniformly poor and expensive. Marchwood keeps later hours than anywhere else in the region — kitchens serve until 10:30pm, and until midnight on Fridays and Saturdays.
+
+======================================================================
+Chunk 207  |  source: guide_marchwood.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Eat and drink
+
+The area immediately around the station is uniformly poor and expensive. Marchwood keeps later hours than anywhere else in the region — kitchens serve until 10:30pm, and until midnight on Fridays and Saturdays.
+
+======================================================================
+Chunk 208  |  source: guide_marchwood.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## What to see
+
+The city museum is free and genuinely excellent, particularly the industrial floor. The covered market has operated since 1863 and is at its best on a weekday morning.
+
+======================================================================
+Chunk 209  |  source: guide_marchwood.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## What to see
+
+The city museum is free and genuinely excellent, particularly the industrial floor. The covered market has operated since 1863 and is at its best on a weekday morning. The canal walk from Northgate to the old lock is 40 minutes and is the thing residents recommend when asked.
+
+======================================================================
+Chunk 210  |  source: guide_marchwood.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## What to see
+
+The covered market has operated since 1863 and is at its best on a weekday morning. The canal walk from Northgate to the old lock is 40 minutes and is the thing residents recommend when asked.
+
+======================================================================
+Chunk 211  |  source: guide_marchwood.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Where to stay
+
+Plentiful and, outside conference weeks, cheap. Northgate is the district worth staying in.
+
+======================================================================
+Chunk 212  |  source: guide_marchwood.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Where to stay
+
+Plentiful and, outside conference weeks, cheap. Northgate is the district worth staying in. Station-area hotels are convenient for an early train and dispiriting for anything else.
+
+======================================================================
+Chunk 213  |  source: guide_marchwood.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Where to stay
+
+Northgate is the district worth staying in. Station-area hotels are convenient for an early train and dispiriting for anything else.
+
+======================================================================
+Chunk 214  |  source: guide_marchwood.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## When to go
+
+Any time. This is the one place in the region that works in winter, since almost everything is indoors and nothing closes seasonally.
+
+======================================================================
+Chunk 215  |  source: guide_marchwood.md#18  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## When to go
+
+Any time. This is the one place in the region that works in winter, since almost everything is indoors and nothing closes seasonally. Conference weeks in March and October fill the hotels and double the prices; check before booking.
+
+======================================================================
+Chunk 216  |  source: guide_marchwood.md#19  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## When to go
+
+This is the one place in the region that works in winter, since almost everything is indoors and nothing closes seasonally. Conference weeks in March and October fill the hotels and double the prices; check before booking.
+
+======================================================================
+Chunk 217  |  source: guide_marchwood.md#20  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts.
+
+======================================================================
+Chunk 218  |  source: guide_marchwood.md#21  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 219  |  source: guide_marchwood.md#22  |  produced by: chunker.py::split_documents
+======================================================================
+# Marchwood
+
+## Practical notes
+
+Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 220  |  source: guide_pellew_sands.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+Pellew Sands is a Victorian seaside resort that has been through three distinct lives: fashionable, then neglected, and now something in between. The architecture is from the first period and much of the infrastructure from the second.
+
+======================================================================
+Chunk 221  |  source: guide_pellew_sands.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+Pellew Sands is a Victorian seaside resort that has been through three distinct lives: fashionable, then neglected, and now something in between. The architecture is from the first period and much of the infrastructure from the second.
+
+======================================================================
+Chunk 222  |  source: guide_pellew_sands.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Getting there
+
+The branch line runs from the regional hub in 70 minutes, seven times a day, and the station is on the seafront, which is rare and pleasant. Driving is 50 minutes from Brightwater.
+
+======================================================================
+Chunk 223  |  source: guide_pellew_sands.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Getting there
+
+The branch line runs from the regional hub in 70 minutes, seven times a day, and the station is on the seafront, which is rare and pleasant. Driving is 50 minutes from Brightwater. Seafront parking is metered and expensive; the free lot behind the station is a four-minute walk and almost always has space.
+
+======================================================================
+Chunk 224  |  source: guide_pellew_sands.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Getting there
+
+Driving is 50 minutes from Brightwater. Seafront parking is metered and expensive; the free lot behind the station is a four-minute walk and almost always has space.
+
+======================================================================
+Chunk 225  |  source: guide_pellew_sands.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Getting around
+
+The seafront runs two miles and is flat the whole way. Everything of interest is on it or one street back.
+
+======================================================================
+Chunk 226  |  source: guide_pellew_sands.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Getting around
+
+The seafront runs two miles and is flat the whole way. Everything of interest is on it or one street back. A land train runs the length of the promenade between Easter and September, hourly, and is aimed at children but used by everyone.
+
+======================================================================
+Chunk 227  |  source: guide_pellew_sands.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Getting around
+
+Everything of interest is on it or one street back. A land train runs the length of the promenade between Easter and September, hourly, and is aimed at children but used by everyone.
+
+======================================================================
+Chunk 228  |  source: guide_pellew_sands.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Eat and drink
+
+The seafront is chips and ice cream, done well and without pretence. The better cooking is on Marine Terrace, one street back, where four or five places are genuinely good and roughly half the seafront price.
+
+======================================================================
+Chunk 229  |  source: guide_pellew_sands.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Eat and drink
+
+The seafront is chips and ice cream, done well and without pretence. The better cooking is on Marine Terrace, one street back, where four or five places are genuinely good and roughly half the seafront price. Sunday evening is difficult — most kitchens close.
+
+======================================================================
+Chunk 230  |  source: guide_pellew_sands.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Eat and drink
+
+The better cooking is on Marine Terrace, one street back, where four or five places are genuinely good and roughly half the seafront price. Sunday evening is difficult — most kitchens close.
+
+======================================================================
+Chunk 231  |  source: guide_pellew_sands.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## What to see
+
+The pier is 1890s, was partly destroyed by fire in 1978, and the surviving half is open and free. The municipal gardens behind the seafront are better than they sound.
+
+======================================================================
+Chunk 232  |  source: guide_pellew_sands.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## What to see
+
+The pier is 1890s, was partly destroyed by fire in 1978, and the surviving half is open and free. The municipal gardens behind the seafront are better than they sound. The beach is two miles of hard sand and is genuinely excellent at low tide and unremarkable at high.
+
+======================================================================
+Chunk 233  |  source: guide_pellew_sands.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## What to see
+
+The municipal gardens behind the seafront are better than they sound. The beach is two miles of hard sand and is genuinely excellent at low tide and unremarkable at high.
+
+======================================================================
+Chunk 234  |  source: guide_pellew_sands.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Where to stay
+
+A great deal of accommodation, most of it dating from the resort's first period and varying wildly in how well it has been maintained. Prices are low outside July and August.
+
+======================================================================
+Chunk 235  |  source: guide_pellew_sands.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Where to stay
+
+A great deal of accommodation, most of it dating from the resort's first period and varying wildly in how well it has been maintained. Prices are low outside July and August. The seafront hotels are noisier than the Marine Terrace guesthouses.
+
+======================================================================
+Chunk 236  |  source: guide_pellew_sands.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Where to stay
+
+Prices are low outside July and August. The seafront hotels are noisier than the Marine Terrace guesthouses.
+
+======================================================================
+Chunk 237  |  source: guide_pellew_sands.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## When to go
+
+June and September for the beach without the crowds. July and August are busy and the town is at its most itself, for better and worse.
+
+======================================================================
+Chunk 238  |  source: guide_pellew_sands.md#18  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## When to go
+
+June and September for the beach without the crowds. July and August are busy and the town is at its most itself, for better and worse. Winter is bleak, largely closed, and has a following among people who like that sort of thing.
+
+======================================================================
+Chunk 239  |  source: guide_pellew_sands.md#19  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## When to go
+
+July and August are busy and the town is at its most itself, for better and worse. Winter is bleak, largely closed, and has a following among people who like that sort of thing.
+
+======================================================================
+Chunk 240  |  source: guide_pellew_sands.md#20  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts.
+
+======================================================================
+Chunk 241  |  source: guide_pellew_sands.md#21  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 242  |  source: guide_pellew_sands.md#22  |  produced by: chunker.py::split_documents
+======================================================================
+# Pellew Sands
+
+## Practical notes
+
+Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 243  |  source: guide_regional_transport.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## The railway
+
+The line runs along the river valley, connecting Brightwater to the regional
+hub in 50 minutes. Eleven services a day on weekdays, six on Sundays.
+
+======================================================================
+Chunk 244  |  source: guide_regional_transport.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## The railway
+
+The line runs along the river valley, connecting Brightwater to the regional
+hub in 50 minutes. Eleven services a day on weekdays, six on Sundays. The line
+north of Brightwater closed in 1963 and everything beyond it is bus or car.
+
+======================================================================
+Chunk 245  |  source: guide_regional_transport.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## The railway
+
+Eleven services a day on weekdays, six on Sundays. The line
+north of Brightwater closed in 1963 and everything beyond it is bus or car. Tickets are cheaper booked the day before than on the day, and considerably
+cheaper than that booked a week ahead.
+
+======================================================================
+Chunk 246  |  source: guide_regional_transport.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## The railway
+
+The line
+north of Brightwater closed in 1963 and everything beyond it is bus or car. Tickets are cheaper booked the day before than on the day, and considerably
+cheaper than that booked a week ahead. There is no ticket office at
+Brightwater station outside weekday mornings; the machine on the platform takes
+cards only.
+
+======================================================================
+Chunk 247  |  source: guide_regional_transport.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## The railway
+
+Tickets are cheaper booked the day before than on the day, and considerably
+cheaper than that booked a week ahead. There is no ticket office at
+Brightwater station outside weekday mornings; the machine on the platform takes
+cards only.
+
+======================================================================
+Chunk 248  |  source: guide_regional_transport.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Buses
+
+Three operators run in the region and they do not accept each other's tickets,
+which is the single most common source of confusion for visitors. Services
+concentrate on weekday daytimes.
+
+======================================================================
+Chunk 249  |  source: guide_regional_transport.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Buses
+
+Three operators run in the region and they do not accept each other's tickets,
+which is the single most common source of confusion for visitors. Services
+concentrate on weekday daytimes. Sunday service is minimal to non-existent
+outside the Brightwater town routes.
+
+======================================================================
+Chunk 250  |  source: guide_regional_transport.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Buses
+
+Services
+concentrate on weekday daytimes. Sunday service is minimal to non-existent
+outside the Brightwater town routes. The Kestrelford service is hourly on weekdays, two-hourly on Saturdays, and
+does not run on Sundays.
+
+======================================================================
+Chunk 251  |  source: guide_regional_transport.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Buses
+
+Sunday service is minimal to non-existent
+outside the Brightwater town routes. The Kestrelford service is hourly on weekdays, two-hourly on Saturdays, and
+does not run on Sundays. The Halden Bay coast service runs four times daily
+year-round.
+
+======================================================================
+Chunk 252  |  source: guide_regional_transport.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Buses
+
+The Kestrelford service is hourly on weekdays, two-hourly on Saturdays, and
+does not run on Sundays. The Halden Bay coast service runs four times daily
+year-round.
+
+======================================================================
+Chunk 253  |  source: guide_regional_transport.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Driving
+
+Roads are good between the towns and poor on the approaches to both Kestrelford
+and Halden Bay. The Kestrelford approach is single-track with passing places
+for the final eight minutes.
+
+======================================================================
+Chunk 254  |  source: guide_regional_transport.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Driving
+
+Roads are good between the towns and poor on the approaches to both Kestrelford
+and Halden Bay. The Kestrelford approach is single-track with passing places
+for the final eight minutes. The Halden Bay coast road is cut into the cliff
+and is slow rather than difficult.
+
+======================================================================
+Chunk 255  |  source: guide_regional_transport.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Driving
+
+The Kestrelford approach is single-track with passing places
+for the final eight minutes. The Halden Bay coast road is cut into the cliff
+and is slow rather than difficult. Parking is the constraint rather than driving.
+
+======================================================================
+Chunk 256  |  source: guide_regional_transport.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Driving
+
+The Halden Bay coast road is cut into the cliff
+and is slow rather than difficult. Parking is the constraint rather than driving. Both Halden Bay lots fill by
+10am on summer weekends.
+
+======================================================================
+Chunk 257  |  source: guide_regional_transport.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Driving
+
+Parking is the constraint rather than driving. Both Halden Bay lots fill by
+10am on summer weekends. Kestrelford's lower car park is free and involves a
+steep walk up.
+
+======================================================================
+Chunk 258  |  source: guide_regional_transport.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Driving
+
+Both Halden Bay lots fill by
+10am on summer weekends. Kestrelford's lower car park is free and involves a
+steep walk up.
+
+======================================================================
+Chunk 259  |  source: guide_regional_transport.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Walking and cycling
+
+The river path from Brightwater runs four miles upstream on a good surface. The
+old railway trackbed from Kestrelford runs six miles on an easy gradient and is
+the best walking in the region for the effort involved.
+
+======================================================================
+Chunk 260  |  source: guide_regional_transport.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Walking and cycling
+
+The river path from Brightwater runs four miles upstream on a good surface. The
+old railway trackbed from Kestrelford runs six miles on an easy gradient and is
+the best walking in the region for the effort involved. The coastal path from
+Halden Bay is more serious — exposed, and closed in high wind.
+
+======================================================================
+Chunk 261  |  source: guide_regional_transport.md#18  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Walking and cycling
+
+The
+old railway trackbed from Kestrelford runs six miles on an easy gradient and is
+the best walking in the region for the effort involved. The coastal path from
+Halden Bay is more serious — exposed, and closed in high wind. Cycling is pleasant on the river path and the trackbed, and unpleasant on Mill
+Road and the coast road, neither of which has a shoulder.
+
+======================================================================
+Chunk 262  |  source: guide_regional_transport.md#19  |  produced by: chunker.py::split_documents
+======================================================================
+# Getting around the region
+
+## Walking and cycling
+
+The coastal path from
+Halden Bay is more serious — exposed, and closed in high wind. Cycling is pleasant on the river path and the trackbed, and unpleasant on Mill
+Road and the coast road, neither of which has a shoulder.
+
+======================================================================
+Chunk 263  |  source: guide_seasons.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Spring, March to May
+
+Days lengthen quickly and businesses that closed for winter reopen through
+March and April. By May everything is open and the weather is reliable enough
+to plan around.
+
+======================================================================
+Chunk 264  |  source: guide_seasons.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Spring, March to May
+
+Days lengthen quickly and businesses that closed for winter reopen through
+March and April. By May everything is open and the weather is reliable enough
+to plan around. Late May is arguably the best week of the year in Brightwater —
+long days, everything running, and the students gone.
+
+======================================================================
+Chunk 265  |  source: guide_seasons.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Spring, March to May
+
+By May everything is open and the weather is reliable enough
+to plan around. Late May is arguably the best week of the year in Brightwater —
+long days, everything running, and the students gone. The Kestrelford Saturday market builds back to full size through April.
+
+======================================================================
+Chunk 266  |  source: guide_seasons.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Spring, March to May
+
+Late May is arguably the best week of the year in Brightwater —
+long days, everything running, and the students gone. The Kestrelford Saturday market builds back to full size through April.
+
+======================================================================
+Chunk 267  |  source: guide_seasons.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Summer, June to August
+
+June is excellent everywhere. July and August split: Halden Bay becomes very
+busy and the parking problem dominates, Kestrelford fills with walkers, and
+Brightwater goes quiet to the point of dullness with the university empty.
+
+======================================================================
+Chunk 268  |  source: guide_seasons.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Summer, June to August
+
+June is excellent everywhere. July and August split: Halden Bay becomes very
+busy and the parking problem dominates, Kestrelford fills with walkers, and
+Brightwater goes quiet to the point of dullness with the university empty. If you are going to Halden Bay in August, arrive before 10am or plan to use the
+overflow lot.
+
+======================================================================
+Chunk 269  |  source: guide_seasons.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Summer, June to August
+
+July and August split: Halden Bay becomes very
+busy and the parking problem dominates, Kestrelford fills with walkers, and
+Brightwater goes quiet to the point of dullness with the university empty. If you are going to Halden Bay in August, arrive before 10am or plan to use the
+overflow lot.
+
+======================================================================
+Chunk 270  |  source: guide_seasons.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Autumn, September to November
+
+September is the other sweet spot — warm, quiet, and everything still open. From late September Brightwater is at its busiest as term starts, and
+accommodation there becomes hard to find and expensive.
+
+======================================================================
+Chunk 271  |  source: guide_seasons.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Autumn, September to November
+
+September is the other sweet spot — warm, quiet, and everything still open. From late September Brightwater is at its busiest as term starts, and
+accommodation there becomes hard to find and expensive. By November the coastal businesses begin closing and the days are short.
+
+======================================================================
+Chunk 272  |  source: guide_seasons.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Autumn, September to November
+
+From late September Brightwater is at its busiest as term starts, and
+accommodation there becomes hard to find and expensive. By November the coastal businesses begin closing and the days are short.
+
+======================================================================
+Chunk 273  |  source: guide_seasons.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Winter, December to February
+
+Brightwater carries on, since the university keeps it occupied. Halden Bay
+largely closes.
+
+======================================================================
+Chunk 274  |  source: guide_seasons.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Winter, December to February
+
+Brightwater carries on, since the university keeps it occupied. Halden Bay
+largely closes. Kestrelford's approach road is difficult in snow and the town
+is cut off for a day or two most winters.
+
+======================================================================
+Chunk 275  |  source: guide_seasons.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Winter, December to February
+
+Halden Bay
+largely closes. Kestrelford's approach road is difficult in snow and the town
+is cut off for a day or two most winters. The coastal path is dramatic and frequently shut.
+
+======================================================================
+Chunk 276  |  source: guide_seasons.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Winter, December to February
+
+Kestrelford's approach road is difficult in snow and the town
+is cut off for a day or two most winters. The coastal path is dramatic and frequently shut. Several riverside businesses
+in Brightwater close entirely from January to March.
+
+======================================================================
+Chunk 277  |  source: guide_seasons.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# When to visit the region
+
+## Winter, December to February
+
+The coastal path is dramatic and frequently shut. Several riverside businesses
+in Brightwater close entirely from January to March.
+
+======================================================================
+Chunk 278  |  source: guide_thornby_wells.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+Thornby Wells was a spa town for about ninety years and has spent the century since being a comfortable small town of 6,000 that happens to have unusually grand architecture for its size.
+
+======================================================================
+Chunk 279  |  source: guide_thornby_wells.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Getting there
+
+On the Marchwood line, 25 minutes from the hub, with trains every hour and every two hours on Sundays. The station is in the centre.
+
+======================================================================
+Chunk 280  |  source: guide_thornby_wells.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Getting there
+
+On the Marchwood line, 25 minutes from the hub, with trains every hour and every two hours on Sundays. The station is in the centre. Driving from Brightwater is 45 minutes on good roads.
+
+======================================================================
+Chunk 281  |  source: guide_thornby_wells.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Getting there
+
+The station is in the centre. Driving from Brightwater is 45 minutes on good roads. Parking is free for two hours everywhere in town, which is unusual and generous.
+
+======================================================================
+Chunk 282  |  source: guide_thornby_wells.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Getting there
+
+Driving from Brightwater is 45 minutes on good roads. Parking is free for two hours everywhere in town, which is unusual and generous.
+
+======================================================================
+Chunk 283  |  source: guide_thornby_wells.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Getting around
+
+Flat and compact — 15 minutes end to end. The pump room, the gardens, and the main shopping street are within three minutes of each other.
+
+======================================================================
+Chunk 284  |  source: guide_thornby_wells.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Getting around
+
+Flat and compact — 15 minutes end to end. The pump room, the gardens, and the main shopping street are within three minutes of each other. No local transport and none needed.
+
+======================================================================
+Chunk 285  |  source: guide_thornby_wells.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Getting around
+
+The pump room, the gardens, and the main shopping street are within three minutes of each other. No local transport and none needed.
+
+======================================================================
+Chunk 286  |  source: guide_thornby_wells.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Eat and drink
+
+Better than a town this size has any right to be, a legacy of the spa era. Four places on Pump Street are genuinely good and the prices are Marchwood prices rather than village prices.
+
+======================================================================
+Chunk 287  |  source: guide_thornby_wells.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Eat and drink
+
+Better than a town this size has any right to be, a legacy of the spa era. Four places on Pump Street are genuinely good and the prices are Marchwood prices rather than village prices. Sunday lunch is the local institution and needs booking a week ahead.
+
+======================================================================
+Chunk 288  |  source: guide_thornby_wells.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Eat and drink
+
+Four places on Pump Street are genuinely good and the prices are Marchwood prices rather than village prices. Sunday lunch is the local institution and needs booking a week ahead.
+
+======================================================================
+Chunk 289  |  source: guide_thornby_wells.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## What to see
+
+The pump room is open, free, and you can still drink the water, which tastes bad in an interesting way. The gardens behind it are formal, well kept, and open until dusk.
+
+======================================================================
+Chunk 290  |  source: guide_thornby_wells.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## What to see
+
+The pump room is open, free, and you can still drink the water, which tastes bad in an interesting way. The gardens behind it are formal, well kept, and open until dusk. The assembly rooms host concerts most weekends and tickets are rarely sold out.
+
+======================================================================
+Chunk 291  |  source: guide_thornby_wells.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## What to see
+
+The gardens behind it are formal, well kept, and open until dusk. The assembly rooms host concerts most weekends and tickets are rarely sold out.
+
+======================================================================
+Chunk 292  |  source: guide_thornby_wells.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Where to stay
+
+Two large hotels from the spa period, both faded in a way some people find charming, and several small guesthouses. Prices are moderate and stable year-round.
+
+======================================================================
+Chunk 293  |  source: guide_thornby_wells.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Where to stay
+
+Two large hotels from the spa period, both faded in a way some people find charming, and several small guesthouses. Prices are moderate and stable year-round.
+
+======================================================================
+Chunk 294  |  source: guide_thornby_wells.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## When to go
+
+Year-round, genuinely. The gardens are best in May and June.
+
+======================================================================
+Chunk 295  |  source: guide_thornby_wells.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## When to go
+
+Year-round, genuinely. The gardens are best in May and June. The concert season runs September to April, which makes this the region's most reliable winter destination after Marchwood.
+
+======================================================================
+Chunk 296  |  source: guide_thornby_wells.md#18  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## When to go
+
+The gardens are best in May and June. The concert season runs September to April, which makes this the region's most reliable winter destination after Marchwood.
+
+======================================================================
+Chunk 297  |  source: guide_thornby_wells.md#19  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts.
+
+======================================================================
+Chunk 298  |  source: guide_thornby_wells.md#20  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 299  |  source: guide_thornby_wells.md#21  |  produced by: chunker.py::split_documents
+======================================================================
+# Thornby Wells
+
+## Practical notes
+
+Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
+======================================================================
+Chunk 300  |  source: guide_walking.md#0  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Easy, on good surfaces
+
+The **Brightwater river path** runs four miles upstream from the town to a weir,
+on a made surface, flat throughout. It is the most-walked route in the region
+and deservedly so.
+
+======================================================================
+Chunk 301  |  source: guide_walking.md#1  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Easy, on good surfaces
+
+The **Brightwater river path** runs four miles upstream from the town to a weir,
+on a made surface, flat throughout. It is the most-walked route in the region
+and deservedly so. Continuing downstream from Givens Mill reaches Brightwater in
+about three hours.
+
+======================================================================
+Chunk 302  |  source: guide_walking.md#2  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Easy, on good surfaces
+
+It is the most-walked route in the region
+and deservedly so. Continuing downstream from Givens Mill reaches Brightwater in
+about three hours. The **Kestrelford trackbed** follows the railway line closed in 1963 for six
+miles to the next village.
+
+======================================================================
+Chunk 303  |  source: guide_walking.md#3  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Easy, on good surfaces
+
+Continuing downstream from Givens Mill reaches Brightwater in
+about three hours. The **Kestrelford trackbed** follows the railway line closed in 1963 for six
+miles to the next village. Easy gradient, good surface, and the best walking in
+the region for the effort involved.
+
+======================================================================
+Chunk 304  |  source: guide_walking.md#4  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Easy, on good surfaces
+
+The **Kestrelford trackbed** follows the railway line closed in 1963 for six
+miles to the next village. Easy gradient, good surface, and the best walking in
+the region for the effort involved. **Thornby Wells** has flat, formal gardens and level streets — the region's
+most accessible town on foot.
+
+======================================================================
+Chunk 305  |  source: guide_walking.md#5  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Easy, on good surfaces
+
+Easy gradient, good surface, and the best walking in
+the region for the effort involved. **Thornby Wells** has flat, formal gardens and level streets — the region's
+most accessible town on foot.
+
+======================================================================
+Chunk 306  |  source: guide_walking.md#6  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Moderate, with hills
+
+The **Corry Vale circuit** takes in three of the four villages, about nine miles
+with 500 metres of ascent. The footpath network in the valley is dense and well
+marked.
+
+======================================================================
+Chunk 307  |  source: guide_walking.md#7  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Moderate, with hills
+
+The **Corry Vale circuit** takes in three of the four villages, about nine miles
+with 500 metres of ascent. The footpath network in the valley is dense and well
+marked. Several paths become genuinely boggy rather than merely wet outside May
+to September.
+
+======================================================================
+Chunk 308  |  source: guide_walking.md#8  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Moderate, with hills
+
+The footpath network in the valley is dense and well
+marked. Several paths become genuinely boggy rather than merely wet outside May
+to September. **Givens Mill** to Brightwater along the river is three hours one way, easy
+underfoot, and the return needs a weekday bus.
+
+======================================================================
+Chunk 309  |  source: guide_walking.md#9  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Moderate, with hills
+
+Several paths become genuinely boggy rather than merely wet outside May
+to September. **Givens Mill** to Brightwater along the river is three hours one way, easy
+underfoot, and the return needs a weekday bus.
+
+======================================================================
+Chunk 310  |  source: guide_walking.md#10  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Serious, and weather-dependent
+
+The **Halden Bay coastal path** runs north to a lighthouse in about two hours
+and south along the cliffs indefinitely. It is exposed, and it is closed in high
+wind — this is enforced and the closures are not advisory.
+
+======================================================================
+Chunk 311  |  source: guide_walking.md#11  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Serious, and weather-dependent
+
+The **Halden Bay coastal path** runs north to a lighthouse in about two hours
+and south along the cliffs indefinitely. It is exposed, and it is closed in high
+wind — this is enforced and the closures are not advisory. The **Elder Ness shingle** walk to the lighthouse is only 25 minutes but shingle
+is much harder going than the distance suggests.
+
+======================================================================
+Chunk 312  |  source: guide_walking.md#12  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Serious, and weather-dependent
+
+It is exposed, and it is closed in high
+wind — this is enforced and the closures are not advisory. The **Elder Ness shingle** walk to the lighthouse is only 25 minutes but shingle
+is much harder going than the distance suggests. The single access road to the
+headland floods at the highest spring tides, about six times a year, for roughly
+two hours either side of high water.
+
+======================================================================
+Chunk 313  |  source: guide_walking.md#13  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Serious, and weather-dependent
+
+The **Elder Ness shingle** walk to the lighthouse is only 25 minutes but shingle
+is much harder going than the distance suggests. The single access road to the
+headland floods at the highest spring tides, about six times a year, for roughly
+two hours either side of high water.
+
+======================================================================
+Chunk 314  |  source: guide_walking.md#14  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Seasonal notes
+
+Add four minutes to any Brightwater walking estimate in winter; the path past
+the pond ices over and people take the long way round. Boots with real tread
+matter more here than any other equipment.
+
+======================================================================
+Chunk 315  |  source: guide_walking.md#15  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Seasonal notes
+
+Add four minutes to any Brightwater walking estimate in winter; the path past
+the pond ices over and people take the long way round. Boots with real tread
+matter more here than any other equipment. Paths are cleared by 7am on weekdays
+and considerably later at weekends.
+
+======================================================================
+Chunk 316  |  source: guide_walking.md#16  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Seasonal notes
+
+Boots with real tread
+matter more here than any other equipment. Paths are cleared by 7am on weekdays
+and considerably later at weekends. The Kestrelford approach road is not gritted above the second village and is
+impassable in snow, which can cut the town off for a day or two most winters.
+
+======================================================================
+Chunk 317  |  source: guide_walking.md#17  |  produced by: chunker.py::split_documents
+======================================================================
+# Walking in the region
+
+## Seasonal notes
+
+Paths are cleared by 7am on weekdays
+and considerably later at weekends. The Kestrelford approach road is not gritted above the second village and is
+impassable in snow, which can cut the town off for a day or two most winters.
+
+For each one, ask: could someone answer a question using only this,
+without reading what came before or after?

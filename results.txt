@@ -1,0 +1,85 @@
+
+Question: When is the best time to book railway tickets at a cheaper-than-normal rate?
+
+#   distance   source                           preview
+----------------------------------------------------------------------------------------------------
+1   0.5184     guide_regional_transport.md      # Getting around the region  ## The railway  Tickets...
+2   0.6059     guide_givens_mill.md             # Givens Mill  ## When to go  Late spring is the bes...
+3   0.6153     guide_marchwood.md               # Marchwood  ## Getting around  A tram network of fo...
+4   0.6178     guide_kestrelford.md             # Kestrelford  ## When to go  The Saturday market ru...
+5   0.6198     guide_regional_transport.md      # Getting around the region  ## The railway  Eleven ...
+
+Gate: best distance 0.518 is under the 0.6 cutoff
+
+Lower is better. 0.3 is a close match, 0.9 is unrelated.
+Milestone 4: run your five questions, then the five in OUT_OF_SCOPE
+that your documents clearly don't cover, and look for the gap
+between the two groups. Your cutoff goes in that gap.
+
+Question: Which cities have free parking?
+
+#   distance   source                           preview
+----------------------------------------------------------------------------------------------------
+1   0.4893     guide_accessibility.md           # Getting around the region with limited mobility  #...
+2   0.5130     guide_regional_transport.md      # Getting around the region  ## Driving  Parking is ...
+3   0.5573     guide_accessibility.md           # Getting around the region with limited mobility  #...
+4   0.5741     guide_halden_bay.md              # Halden Bay  ## Getting there  Buses run four times...
+5   0.5806     guide_accessibility.md           # Getting around the region with limited mobility  #...
+
+Gate: best distance 0.489 is under the 0.6 cutoff
+
+Lower is better. 0.3 is a close match, 0.9 is unrelated.
+Milestone 4: run your five questions, then the five in OUT_OF_SCOPE
+that your documents clearly don't cover, and look for the gap
+between the two groups. Your cutoff goes in that gap.
+
+Question: What are some fun things visitors can do while in Kestreford and Marchwood?
+
+#   distance   source                           preview
+----------------------------------------------------------------------------------------------------
+1   0.4271     guide_kestrelford.md             # Kestrelford  ## Where to stay  Booking ahead matte...
+2   0.4436     guide_kestrelford.md             # Kestrelford  ## What to see  The market square on ...
+3   0.4471     guide_kestrelford.md             # Kestrelford  ## Where to stay  Two inns on the squ...
+4   0.4484     guide_kestrelford.md             # Kestrelford  ## Where to stay  Two inns on the squ...
+5   0.4544     guide_marchwood.md               # Marchwood  ## When to go  Any time. This is the on...
+
+Gate: best distance 0.427 is under the 0.6 cutoff
+
+Lower is better. 0.3 is a close match, 0.9 is unrelated.
+Milestone 4: run your five questions, then the five in OUT_OF_SCOPE
+that your documents clearly don't cover, and look for the gap
+between the two groups. Your cutoff goes in that gap.
+
+Question: Where is the hospital located?
+
+#   distance   source                           preview
+----------------------------------------------------------------------------------------------------
+1   0.4224     guide_accessibility.md           # Getting around the region with limited mobility  #...
+2   0.4695     guide_accessibility.md           # Getting around the region with limited mobility  #...
+3   0.4703     guide_kestrelford.md             # Kestrelford  ## Practical notes  Mobile coverage i...
+4   0.4742     guide_halden_bay.md              # Halden Bay  ## Practical notes  Mobile coverage is...
+5   0.4833     guide_givens_mill.md             # Givens Mill  ## Practical notes  Mobile coverage i...
+
+Gate: best distance 0.422 is under the 0.6 cutoff
+
+Lower is better. 0.3 is a close match, 0.9 is unrelated.
+Milestone 4: run your five questions, then the five in OUT_OF_SCOPE
+that your documents clearly don't cover, and look for the gap
+between the two groups. Your cutoff goes in that gap.
+
+Question: What is the best means of transportation with the shortest travel time from Brightwater to Givens Mill?
+
+#   distance   source                           preview
+----------------------------------------------------------------------------------------------------
+1   0.3356     guide_givens_mill.md             # Givens Mill  ## Getting there  No station and no b...
+2   0.3639     guide_walking.md                 # Walking in the region  ## Moderate, with hills  Se...
+3   0.3713     guide_walking.md                 # Walking in the region  ## Easy, on good surfaces  ...
+4   0.3926     guide_brightwater.md             # Brightwater  ## Getting around  The local bus runs...
+5   0.3979     guide_brightwater.md             # Brightwater  ## Getting around  The town is walkab...
+
+Gate: best distance 0.336 is under the 0.6 cutoff
+
+Lower is better. 0.3 is a close match, 0.9 is unrelated.
+Milestone 4: run your five questions, then the five in OUT_OF_SCOPE
+that your documents clearly don't cover, and look for the gap
+between the two groups. Your cutoff goes in that gap.
