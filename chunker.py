@@ -1,18 +1,12 @@
-"""
-Stage 2 of the pipeline: splitting documents into chunks.
+"""Stage 2 of the pipeline: split documents into searchable chunks.
 
-⚠️ THIS IS THE FILE YOU CHANGE IN MILESTONE 3.
-
-`split_documents` below replaces the plain, fixed-size chunker with a
-heading-scoped, paragraph-aware strategy: headings mark subject boundaries,
-so a chunk never spans two headings. Within one heading's content,
-paragraphs are packed together while they fit a size budget; a paragraph
-too long to fit alone is divided at sentence endings, never mid-sentence
-or mid-word.
-
-If you get stuck for 30 minutes, `fallback_split` is the original. Switch
-back to it, write down what you saw, and move on. That's a real observation
-about your pipeline, not giving up.
+The custom strategy centers one chunk on each sentence within a heading-defined
+section. When the 436-character budget permits, it also includes the immediate
+previous and next sentences from that same section. Each chunk repeats the
+document title and its section heading. Paragraph breaks help detect sentence
+boundaries but do not prevent neighboring sentences in one section from sharing
+a chunk. A sentence longer than the available budget is split between words as
+a last resort. The original fixed-window splitter remains for comparison.
 """
 
 import re
@@ -22,13 +16,7 @@ import config
 from ingest import Document
 
 
-# Milestone 3's size cap. Chosen from the corpus, not from config.CHUNK_SIZE:
-# observed sections run 123-691 characters and observed paragraphs run
-# 71-451, so 800 lets most sections stand as one piece with room to spare.
-# config.CHUNK_SIZE is left alone — it still drives the fallback's fixed
-# windows.
-MAX_PIECE_CHARS = 800
-
+MAX_PIECE_CHARS = 436
 _HEADING_RE = re.compile(r"^(#{1,6})[ \t]+(.*)$", re.MULTILINE)
 _SENTENCE_BOUNDARY_RE = re.compile(r"(?<=[.!?])\s+")
 
@@ -38,9 +26,9 @@ class Chunk:
     """One piece of one document."""
 
     text: str
-    source: str        # which file it came from
-    index: int         # which chunk within that file, starting at 0
-    produced_by: str   # the function that made it — cite this in your README
+    source: str
+    index: int
+    produced_by: str
 
     @property
     def label(self) -> str:
@@ -52,12 +40,7 @@ def fallback_split(
     chunk_size: int | None = None,
     overlap: int | None = None,
 ) -> list[Chunk]:
-    """
-    The starter's original chunker. Fixed-size character windows with overlap.
-
-    Keep this function. Milestone 3's stop rule points back at it, and having
-    something to compare your own strategy against is useful in unit 2.
-    """
+    """The starter's original fixed-size character splitter with overlap."""
     chunk_size = chunk_size or config.CHUNK_SIZE
     overlap = overlap or config.CHUNK_OVERLAP
 
@@ -85,69 +68,16 @@ def fallback_split(
     return chunks
 
 
-# ---------------------------------------------------------------------------
-# Milestone 3: heading-scoped, paragraph-aware chunker
-# ---------------------------------------------------------------------------
-#
-# This maps directly onto the strategy as written, one rule at a time:
-#
-#   "I will use headings to understand what each section is about" ->
-#       a heading marks where one subject ends and the next begins. A chunk
-#       never spans two headings. Text before the first heading (10 of 14
-#       docs have some) is its own headingless section, same rule.
-#
-#   "group neighboring paragraphs when they discuss the same subject and
-#    fit within my 800-character size limit" ->
-#       paragraphs under the SAME heading are, by construction, the same
-#       subject, so they're packed together into one piece as long as it
-#       stays under budget.
-#
-#   "I will start a new piece when ... adding more text would make it too
-#    large" ->
-#       once the next paragraph would push the running piece over
-#       MAX_PIECE_CHARS, that piece is closed and a new one starts — still
-#       under the same heading if the section itself doesn't fit in one
-#       piece.
-#
-#   "I will keep the document title with its content" ->
-#       a leading "# ..." title is pulled off the top of the document and
-#       carried into every piece, so a piece read on its own still says
-#       what document it's from.
-#
-#   "I will keep paragraphs intact whenever possible. If a paragraph is too
-#    long to fit by itself, I will divide it at sentence endings. I will
-#    avoid cutting a sentence or word in the middle." ->
-#       a paragraph is only ever split when it can't fit the budget alone
-#       (title + heading overhead counted). It's split at sentence
-#       boundaries; a single sentence too long even by itself falls back to
-#       word boundaries as the last resort, never a mid-word cut.
-#
-# NOT implemented: "I may include text from the next section if it adds
-# useful context and still fits." That line is explicitly discretionary
-# ("may"), and deciding which specific neighboring sections are related
-# enough to share a piece is a judgment call about content, not something
-# this function can determine on its own — hard-coding a rule for it would
-# just be reintroducing my own logic in place of yours again. If you want
-# that behavior, tell me the concrete rule (e.g. "merge a trailing section
-# under N characters into the piece before it", or a specific heading name
-# like "Practical notes") and it can be added exactly as specified.
-
-
 @dataclass
 class _Section:
-    """One heading (or the un-headed opening text) and the paragraphs under it."""
+    """One heading, or the unheaded opening text, and its paragraphs."""
 
     heading: str | None
     paragraphs: list[str]
 
 
 def _extract_title(text: str) -> tuple[str, str]:
-    """
-    Pull a leading "# ..." title off the very start of the document, if
-    there is one, so it can be carried into every piece for identification.
-    Returns (title, remaining_text). If the document doesn't open with a
-    top-level heading, title is "" and the whole text is returned unchanged.
-    """
+    """Take a leading '# ...' title off the text to repeat in each chunk."""
     stripped = text.lstrip()
     if not stripped.startswith("# "):
         return "", text
@@ -156,11 +86,12 @@ def _extract_title(text: str) -> tuple[str, str]:
 
 
 def _split_paragraphs(body: str) -> list[str]:
+    """Keep paragraph breaks available when detecting sentences."""
     return [p.strip() for p in re.split(r"\n\s*\n", body) if p.strip()]
 
 
 def _split_into_sections(text: str) -> list[_Section]:
-    """Break document text (title already removed) into heading-delimited sections."""
+    """Keep every section separate; no chunk spans two headings."""
     matches = list(_HEADING_RE.finditer(text))
     sections: list[_Section] = []
 
@@ -169,9 +100,9 @@ def _split_into_sections(text: str) -> list[_Section]:
     if opening:
         sections.append(_Section(heading=None, paragraphs=_split_paragraphs(opening)))
 
-    for i, m in enumerate(matches):
-        heading = m.group(0).strip()
-        body_start = m.end()
+    for i, match in enumerate(matches):
+        heading = match.group(0).strip()
+        body_start = match.end()
         body_end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
         body = text[body_start:body_end].strip()
         sections.append(_Section(heading=heading, paragraphs=_split_paragraphs(body)))
@@ -179,131 +110,112 @@ def _split_into_sections(text: str) -> list[_Section]:
     return sections
 
 
-def _split_sentences(paragraph: str, budget: int) -> list[str]:
-    """
-    Pack a paragraph's sentences into fragments no longer than `budget`,
-    never cutting a sentence in half — except as a last resort (below) when
-    a single sentence alone is longer than the whole budget.
-    """
-    sentences = [s for s in _SENTENCE_BOUNDARY_RE.split(paragraph) if s]
-    packed: list[str] = []
-    current = ""
-
-    for sentence in sentences:
-        candidate = f"{current} {sentence}".strip() if current else sentence
-        if not current or len(candidate) <= budget:
-            current = candidate
-        else:
-            packed.append(current)
-            current = sentence
-    if current:
-        packed.append(current)
-
-    # A single sentence that's still too long can't be split without cutting
-    # mid-sentence, which the brief rules out first. Fall back to word
-    # boundaries only for that sentence, so at least no word gets cut.
-    fragments: list[str] = []
-    for piece in packed:
-        if len(piece) <= budget:
-            fragments.append(piece)
-        else:
-            fragments.extend(_split_words(piece, budget))
-    return fragments
-
-
 def _split_words(text: str, budget: int) -> list[str]:
-    words = text.split(" ")
+    """Split an oversized sentence between complete words as a last resort."""
+    words = text.split()
     pieces: list[str] = []
     current = ""
     for word in words:
-        candidate = f"{current} {word}".strip() if current else word
-        if not current or len(candidate) <= budget:
+        candidate = f"{current} {word}" if current else word
+        if len(candidate) <= budget:
             current = candidate
         else:
-            pieces.append(current)
+            if current:
+                pieces.append(current)
+            # A single word longer than the budget cannot fit without damage.
+            # Preserve it intact rather than silently cutting it in half.
             current = word
     if current:
         pieces.append(current)
     return pieces
 
 
-def _render(title: str, heading: str | None, paragraphs: list[str]) -> str:
-    """Render one piece's text: title, then heading (if any), then paragraphs."""
+def _split_sentences(paragraph: str, budget: int) -> list[str]:
+    """Return one sentence per fragment, preserving word boundaries."""
+    sentences = [s.strip() for s in _SENTENCE_BOUNDARY_RE.split(paragraph) if s.strip()]
+    fragments: list[str] = []
+    for sentence in sentences:
+        if len(sentence) <= budget:
+            fragments.append(sentence)
+        else:
+            fragments.extend(_split_words(sentence, budget))
+    return fragments
+
+
+def _render(title: str, heading: str | None, sentence: str) -> str:
+    """Add the source title and section heading to sentence text."""
     parts: list[str] = []
     if title:
         parts.append(f"# {title}")
     if heading:
         parts.append(heading)
-    if paragraphs:
-        parts.append("\n\n".join(paragraphs))
+    parts.append(sentence)
     return "\n\n".join(parts)
 
 
 def _fragments_for_section(section: _Section, title: str, budget: int) -> list[str]:
-    """Turn one section's paragraphs into fragments, splitting only the ones
-    that can't fit the budget on their own once title/heading overhead
-    (which every piece containing them will have to carry) is counted."""
-    overhead = len(title) + len(section.heading or "") + 4  # blank-line joins
-    room = max(budget - overhead, 1)
+    """Split every paragraph into sentence fragments, including short ones."""
+    # Calculate available space with the exact prefix _render() will add.
+    prefix = _render(title, section.heading, "")
+    room = budget - len(prefix)
+    if room < 1:
+        raise ValueError("Document title and section heading leave no room for text")
 
     fragments: list[str] = []
     for paragraph in section.paragraphs:
-        if len(paragraph) <= room:
-            fragments.append(paragraph)
-        else:
-            fragments.extend(_split_sentences(paragraph, room))
+        fragments.extend(_split_sentences(paragraph, room))
     return fragments
 
 
+def _context_windows(fragments: list[str], title: str, heading: str | None) -> list[str]:
+    """Center each piece on one sentence, with immediate neighbors if they fit.
+
+    The list belongs to one section, so context never crosses a heading. Edge
+    sentences have just one neighbor. For an oversized window, keep the focus
+    sentence and add each adjacent sentence only while the whole rendered
+    piece remains within MAX_PIECE_CHARS.
+    """
+    windows: list[str] = []
+    for i, focus in enumerate(fragments):
+        start = i
+        end = i + 1
+        if i > 0:
+            candidate = " ".join(fragments[i - 1:end])
+            if len(_render(title, heading, candidate)) <= MAX_PIECE_CHARS:
+                start = i - 1
+        if i + 1 < len(fragments):
+            candidate = " ".join(fragments[start:i + 2])
+            if len(_render(title, heading, candidate)) <= MAX_PIECE_CHARS:
+                end = i + 2
+        windows.append(" ".join(fragments[start:end]))
+    return windows
+
+
 def split_documents(documents: list[Document]) -> list[Chunk]:
-    """
-    Split documents into chunks: headings mark subject boundaries (a chunk
-    never spans two headings); paragraphs under the same heading are packed
-    together while they fit MAX_PIECE_CHARS (title and heading included); a
-    paragraph too long to fit alone is divided at sentence endings, never
-    mid-sentence or mid-word; the document's title travels with every piece.
+    """Create one focus-sentence chunk at a time within each section.
 
-    `produced_by` is set to "chunker.py::split_documents" — `app.py chunks`
-    prints it, and it belongs in the README's Sample Chunks section.
+    Each chunk carries its title and heading and includes its immediate prior
+    and following sentences when they fit. Those neighboring sentences are
+    intentionally repeated between adjacent chunks. A sentence that cannot
+    fit the 436-character limit is split at word boundaries as a last resort.
     """
-    budget = MAX_PIECE_CHARS
     chunks: list[Chunk] = []
-
     for doc in documents:
         title, body = _extract_title(doc.text)
         sections = _split_into_sections(body)
-
         index = 0
         for section in sections:
-            fragments = _fragments_for_section(section, title, budget)
-
-            buffer: list[str] = []
-            for fragment in fragments:
-                candidate = buffer + [fragment]
-                if not buffer or len(_render(title, section.heading, candidate)) <= budget:
-                    buffer = candidate
-                    continue
+            fragments = _fragments_for_section(section, title, MAX_PIECE_CHARS)
+            for fragment in _context_windows(fragments, title, section.heading):
                 chunks.append(
                     Chunk(
-                        text=_render(title, section.heading, buffer),
+                        text=_render(title, section.heading, fragment),
                         source=doc.source,
                         index=index,
                         produced_by="chunker.py::split_documents",
                     )
                 )
                 index += 1
-                buffer = [fragment]
-            if buffer:
-                chunks.append(
-                    Chunk(
-                        text=_render(title, section.heading, buffer),
-                        source=doc.source,
-                        index=index,
-                        produced_by="chunker.py::split_documents",
-                    )
-                )
-                index += 1
-
     return chunks
 
 
